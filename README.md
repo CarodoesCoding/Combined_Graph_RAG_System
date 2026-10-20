@@ -1,5 +1,5 @@
 
-This was a project in the second semester of my masters, in which a selection of the learned technologies were combined. The goal was to test the combination of a graph- and a vector database to a combined RAG-System in order to compare book and series adaptions in the example of Pretty Little Liars. The agent runs locally using ollama. A detailed explanation of the technology and analysis of results can be found in [Capstone_Report.pdf](./capstone_report.pdf)
+This was a project in the second semester of my masters, in which a selection of the learned technologies were combined. The goal was to test the combination of a graph- and a vector database to a combined RAG-System in order to compare book and series adaptions in the example of Pretty Little Liars. The agent runs locally using ollama. A detailed explanation of the technology and analysis of results can be found in [Capstone_Report.pdf](./Capstone_Report.pdf)
 
 ```
 ## Structure
