@@ -1,0 +1,157 @@
+[
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Aria Montgomery",
+    "type": "FRIEND",
+    "evidence": "ruling the school with her four best friends: Aria Montgomery",
+    "book": 1
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Hanna Marin",
+    "type": "FRIEND",
+    "evidence": "ruling the school with her four best friends... Hanna Marin",
+    "book": 1
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Emily Fields",
+    "type": "FRIEND",
+    "evidence": "ruling the school with her four best friends... Emily Fields",
+    "book": 1
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Spencer Hastings",
+    "type": "FRIEND",
+    "evidence": "ruling the school with her four best friends... Spencer Hastings",
+    "book": 1
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Ian Thomas",
+    "type": "DATED",
+    "evidence": "Spencer accuses Mona of killing Alison, but Mona says that it was Ian who killed her, as Alison had blackmailed him about their relationship.",
+    "book": 4
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Ezra Fitz",
+    "type": "DATED",
+    "evidence": [
+      "She meets and kisses a guy in a local bar who is later revealed to be her English teacher, Ezra Fitz.",
+      "Aria, who is still hiding her affair with Ezra.",
+      "Aria tells Ezra about the drama with her parents, and they kiss"
+    ],
+    "book": 1
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Sean Ackard",
+    "type": "DATED",
+    "evidence": "Aria's discoveries drive her into Sean's arms, and they start a relationship instead.",
+    "book": 2
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Mike Montgomery",
+    "type": "SIBLING",
+    "evidence": "When Mike realizes that something is troubling his sister, he urges her to tell Darren",
+    "book": 4
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Maya St. Germain",
+    "type": "FRIEND",
+    "evidence": "Emily befriends the new girl in town, Maya St. Germain",
+    "book": 1
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Maya St. Germain",
+    "type": "DATED",
+    "evidence": [
+      "\"A\" knows about Emily and Maya's romantic relationship",
+      "A posts pictures of Emily and Maya kissing during a school swim meet",
+      "Emily and Maya are reunited, but once Trista Taylor... comes to visit, Emily and Maya's relationship is shattered."
+    ],
+    "book": 2
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Mona Vanderwaal",
+    "type": "FRIEND",
+    "evidence": "Hanna lost weight and became the new popular girl at school alongside the former geek, Mona Vanderwaal.",
+    "book": 1
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Sean Ackard",
+    "type": "DATED",
+    "evidence": "Hanna visits the abstinence club hoping to rekindle her relationship with Sean.",
+    "book": 2
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Lucas Gottesman",
+    "type": "FRIEND",
+    "evidence": "Hanna... starting hanging out with Lucas. They go on a cute non-date in a hot air balloon",
+    "book": 3
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Melissa Hastings",
+    "type": "SIBLING",
+    "evidence": [
+      "Spencer continues to struggle in her long-standing rivalry with Melissa Hastings, her perfect older sister.",
+      "Spencer continues to date with her sister Melissa's ex-boyfriend Wren",
+      "Spencer starts seeing the same therapist as Melissa... and not always side with Melissa the way her parents do."
+    ],
+    "book": 1
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Wren Kim",
+    "type": "DATED",
+    "evidence": "Spencer continues to date with her sister Melissa's ex-boyfriend Wren",
+    "book": 2
+  },
+  {
+    "source": "Melissa Hastings",
+    "target": "Wren Kim",
+    "type": "DATED",
+    "evidence": [
+      "Spencer begins to feel attracted to Melissa's new boyfriend, Wren Kim",
+      "Melissa begins to hook-up with him as well."
+    ],
+    "book": 1
+  },
+  {
+    "source": "Melissa Hastings",
+    "target": "Spencer Hastings",
+    "type": "SIBLING",
+    "evidence": "Melissa confronts Spencer about seeing Ian behind her back",
+    "book": 4
+  },
+  {
+    "source": "A",
+    "target": "Emily Fields",
+    "type": "BLACKMAILED",
+    "evidence": "\"A\" sends Emily a text message hinting that \"A\" knows about Emily and Maya's romantic relationship, and threatens to tell everyone about it.",
+    "book": 2
+  },
+  {
+    "source": "A",
+    "target": "Hanna Marin",
+    "type": "BLACKMAILED",
+    "evidence": "Hanna is also pressured by \"A\" to tell Naomi and Riley , her rivals, that Sean dumped her and that she suffers from bulimia.",
+    "book": 2
+  },
+  {
+    "source": "A",
+    "target": "Aria Montgomery",
+    "type": "BLACKMAILED",
+    "evidence": "\"A\" tells Aria to either 'get rid of the problem' or tell her mother the truth about Byron, her father, and his affair",
+    "book": 2
+  }
+]

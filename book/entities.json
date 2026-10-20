@@ -1,0 +1,367 @@
+[
+  {
+    "type": "Character",
+    "name": "Alison DiLaurentis",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "Alison is the manipulative queen bee of Rosewood Day who disappears after a sleepover."
+  },
+  {
+    "type": "Character",
+    "name": "Aria Montgomery",
+    "aliases": [],
+    "description": "Aria is a quirky and artistic girl who returns to Rosewood after a three-year trip to Iceland."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna Marin",
+    "aliases": [],
+    "description": "Hanna is a former chubby girl who became popular and struggles with maintaining her status and body image."
+  },
+  {
+    "type": "Character",
+    "name": "Emily Fields",
+    "aliases": [],
+    "description": "Emily is a shy swimmer who harbors secret romantic feelings for Alison and later Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer Hastings",
+    "aliases": [],
+    "description": "Spencer is an extreme perfectionist who has a complex relationship with her sister Melissa."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra Fitz",
+    "aliases": [],
+    "description": "Ezra is an English teacher who shares a romantic encounter with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Maya St. Germain",
+    "aliases": [],
+    "description": "Maya is the new girl in town who becomes friends with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Mona Vanderwaal",
+    "aliases": [],
+    "description": "Mona is a former geek who becomes popular and friends with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa Hastings",
+    "aliases": [],
+    "description": "Melissa is Spencer's perfect older sister who is dating Wren Kim."
+  },
+  {
+    "type": "Character",
+    "name": "Wren Kim",
+    "aliases": [],
+    "description": "Wren is Melissa's boyfriend who attracts the attention of Spencer."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer Hastings",
+    "aliases": [],
+    "description": "A high school student who is part of a group of friends being harassed by 'A' and struggles with academic pressure and family conflict."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna Marin",
+    "aliases": [],
+    "description": "A high school student who deals with personal secrets, body image issues, and a complicated relationship with her father and his new family."
+  },
+  {
+    "type": "Character",
+    "name": "Aria Montgomery",
+    "aliases": [],
+    "description": "A high school student who is involved in a secret affair with her teacher and is being blackmailed by 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Emily Fields",
+    "aliases": [],
+    "description": "A high school student who struggles with her sexuality and is targeted by 'A' regarding her romantic life."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [],
+    "description": "An unknown antagonist who sends threatening text messages to the girls and blackmails them with their secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [],
+    "description": "A deceased girl whose past actions and death are central to the mystery surrounding the group and Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A troubled young man who is suspected by the girls of being 'A' and has a dark history involving Alison and Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "A girl who is in a romantic relationship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "A boy who dates Hanna and later enters a relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "A teacher who is involved in a secret affair with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Aria's father who is involved in an affair with his student."
+  },
+  {
+    "type": "Character",
+    "name": "Meredith Stevens",
+    "aliases": [],
+    "description": "Byron's student and girlfriend who is involved in an affair with him."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [],
+    "description": "Melissa's ex-boyfriend who becomes involved with Spencer and later tries to reconcile with Melissa."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's sister who is involved with Wren."
+  },
+  {
+    "type": "Character",
+    "name": "Kate",
+    "aliases": [],
+    "description": "The daughter of Hanna's father's partner who receives pills from Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Isabel",
+    "aliases": [],
+    "description": "The partner of Hanna's father."
+  },
+  {
+    "type": "Character",
+    "name": "Andrew",
+    "aliases": [],
+    "description": "A boy who accompanies Spencer to a party."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A girl who was blinded due to an incident involving Alison and Toby."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Ali",
+    "aliases": [
+      "Alison"
+    ],
+    "description": "A girl who went missing and is the central figure of the mystery."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A student who struggles with memory loss and academic pressure."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A girl involved in the group who has a romantic relationship with her teacher."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is dating Ian and is an academic rival."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Melissa's boyfriend and Spencer's field hockey coach."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "Hanna's former best friend who becomes antagonistic."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A girl who struggles with social standing and her relationship with Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [
+      "Sean Ackard"
+    ],
+    "description": "A boy who briefly houses Aria and later reports her to the police."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A girl who faces pressure from her homophobic parents regarding her sexuality."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's romantic interest."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas Beattie"
+    ],
+    "description": "A boy who becomes a supportive friend to Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who has a romantic relationship with Aria."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A young woman who struggles with her romantic relationships and is part of a group of friends targeted by 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "A"
+    ],
+    "description": "A girl who was friends with Hanna but secretly acted as the antagonist 'A' to seek revenge."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A friend of Mona and Emily who recovers from an incident and eventually discovers Mona's true identity."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A friend of the group who discovers Mona's secret and is involved in a fatal confrontation with her."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A member of the friend group who investigates 'A' and deals with family secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [],
+    "description": "Aria's brother who supports her during her investigations."
+  },
+  {
+    "type": "Character",
+    "name": "Darren Wilden",
+    "aliases": [
+      "Darren"
+    ],
+    "description": "A police officer involved in the investigation of the girls' secrets and the death of Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A girl who was blinded in an incident involving the group and Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [],
+    "description": "A deceased girl whose secrets and murder drive the central conflict of the story."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Emily's romantic partner whose relationship is strained by Emily's flirtations."
+  },
+  {
+    "type": "Character",
+    "name": "Trista Taylor",
+    "aliases": [
+      "Trista"
+    ],
+    "description": "A girl from Iowa who flirts with Emily and causes tension in Emily's relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [],
+    "description": "A person who hooks up with Trista, causing further sadness for Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's sister who is suspected by the group of being involved in Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "A man involved with Alison and Melissa who is eventually arrested for Alison's murder."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A person whom Jenna and Alison conspired to get rid of."
+  }
+]

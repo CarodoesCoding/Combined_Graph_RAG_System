@@ -1,0 +1,3554 @@
+[
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Aria Montgomery",
+    "type": "FRIEND",
+    "evidence": "Alison and her clique: Aria Montgomery , Spencer Hastings , Hanna Marin , and Emily Fields were having a sleepover",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Ezra Fitz",
+    "type": "ROMANTIC_INTEREST",
+    "evidence": "Their meeting ends with the two making out in the bar bathroom.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Mona Vanderwaal",
+    "type": "FRIEND",
+    "evidence": "At Rosewood Mall , Hanna and her friend Mona are shopping.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Melissa Hastings",
+    "type": "SISTER",
+    "evidence": "all-star student Spencer must contend with her sister's new fiancée, Wren.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Wren Kingston",
+    "target": "Spencer Hastings",
+    "type": "FLIRTATIOUS",
+    "evidence": "The two behave flirtatiously towards one another, with Wren going as far as to massage a bikini-clad Spencer's back",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Maya St. Germain",
+    "type": "ROMANTIC_INTEREST",
+    "evidence": "Maya kisses Emily as she leaves.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Ashley Marin",
+    "target": "Darren Wilden",
+    "type": "ROMANTIC_INTEREST",
+    "evidence": "Ashley loudly enters the house... with Darren. The two kiss passionately.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Aria Montgomery",
+    "type": "FRIEND",
+    "evidence": "Alison had bought the other Pretty Little Liars friendship bracelets with their names on them.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Jenna Marshall",
+    "type": "ENEMIES",
+    "evidence": "Alison ensured that Toby took the blame for it. Alison had blackmailed him with something she knew",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Ezra Fitz",
+    "type": "ROMANTIC_INTEREST",
+    "evidence": "A tense moments later, they start making out passionately in the car.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Maya St. Germain",
+    "type": "ROMANTIC_INTEREST",
+    "evidence": "Emily's feelings for her new neighbor Maya grow deeper as the two start hanging out more.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Sean Ackard",
+    "type": "COUPLE",
+    "evidence": "Hanna has come to an impasse with Sean Ackard on when to lose their virginity",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Wren Kingston",
+    "type": "ROMANTIC_INTEREST",
+    "evidence": "they get to kissing. At that moment, Melissa walks past in the hallway, catching sight of the lip-lock",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Byron Montgomery",
+    "target": "Aria Montgomery",
+    "type": "PARENT_CHILD",
+    "evidence": "He basically asks her to continue keeping his affair a secret",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Ashley Marin",
+    "target": "Darren Wilden",
+    "type": "ACQUAINTANCE",
+    "evidence": "Darren enters with takeout for dinner; Hanna is totally annoyed",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Byron Montgomery",
+    "type": "FAMILY",
+    "evidence": "Aria tells her father, Byron, that she intends to keep his secret",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Ella Montgomery",
+    "type": "FAMILY",
+    "evidence": "In her home, where Aria and her mother, Ella, unpack boxes",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Mike Montgomery",
+    "type": "SIBLING",
+    "evidence": "Aria drops her brother Mike off at lacrosse practice",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Ezra Fitz",
+    "type": "DATED",
+    "evidence": "Aria gives Ezra a soft kiss before turning to leave. He pulls her back and kisses her properly",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Mona Vanderwaal",
+    "type": "FRIEND",
+    "evidence": "At Rosewood Mall, Hanna and her friend Mona are shopping.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Pam Fields",
+    "type": "FAMILY",
+    "evidence": "Emily discusses Aria's return home with her own mother, Pam",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Maya St. Germain",
+    "type": "FRIEND",
+    "evidence": "Maya kisses Emily as she leaves.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Melissa Hastings",
+    "type": "SIBLING",
+    "evidence": "Spencer must contend with her sister's new fiancée, Wren.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Melissa Hastings",
+    "target": "Wren Kingston",
+    "type": "ENGAGED",
+    "evidence": "Spencer must contend with her sister's new fiancée, Wren.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Ashley Marin",
+    "target": "Hanna Marin",
+    "type": "FAMILY",
+    "evidence": "Ashley scolds Hanna for her mistake, reminding her daughter that Rosewood is unforgiving",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Ashley Marin",
+    "target": "Darren Wilden",
+    "type": "DATED",
+    "evidence": "Ashley loudly enters the house... with Darren. The two kiss passionately.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Byron Montgomery",
+    "target": "Ella Montgomery",
+    "type": "MARRIED",
+    "evidence": "They declare their commitment to one another, and the two embrace over a glass of wine.",
+    "season": 1,
+    "episode": 1
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Ashley reassures her daughter that she won't see him again.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Ella expresses to Aria her shock at seeing Hanna at the funeral... Just then, Byron hurries into the kitchen",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Aria echoes her mother's surprise, but her father maintains that he has a lot of catching up to do",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Maya",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Emily's feelings for her new neighbor Maya grow deeper as the two start hanging out more.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "FAMILY",
+    "evidence": "Pam walks over and cheerfully meets Maya... She invites Maya to sleep in Emily's room",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria contends with her mutual attraction to her English teacher.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Sean",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Basically, Hanna has come to an impasse with Sean Ackard on when to lose their virginity",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Ben",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "At Emily's locker, Ben tries to force kisses out of Emily, perhaps as proof of her interest",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Melissa",
+    "target": "Wren",
+    "type": "ENGAGED",
+    "evidence": "Then, Wren and Melissa show up... Clearly, the engagement is off.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Wren",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "Spencer pushes Wren away, saying it is not right, and Wren walks away.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Alison DiLaurentis",
+    "target": "Toby Cavanaugh",
+    "type": "BLACKMAILED",
+    "evidence": "Alison had blackmailed him with something she knew",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Ella picks up on the weirdness and asks Byron about it when Aria leaves.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Peter",
+    "target": "Spencer",
+    "type": "FAMILY",
+    "evidence": "Spencer discusses the class she wants to take with her father",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Melissa",
+    "target": "Spencer",
+    "type": "SIBLING",
+    "evidence": "Then, Wren and Melissa show up, signaling Spencer to return to her annoying family.",
+    "season": 1,
+    "episode": 2
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "At the Marins’, Hanna is sickened to find Detective Wilden opening her fridge shirtless... Ashley comes downstairs",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Aria is enjoying breakfast with her parents at a café",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Aria is enjoying breakfast with her parents at a café",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Veronica",
+    "target": "Melissa",
+    "type": "FAMILY",
+    "evidence": "Veronica is trying to comfort her miserable and bitter daughter, Melissa",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "FAMILY",
+    "evidence": "Spencer stands in the doorway... her mother sends her a warning look",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Melissa",
+    "target": "Spencer",
+    "type": "SIBLING",
+    "evidence": "Melissa and Spencer easily slip into an argument",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "SIBLING",
+    "evidence": "Jenna walks by on her brother Toby 's arm.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria corners Ezra in his classroom and asks him out on a date",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Hanna",
+    "target": "Sean",
+    "type": "DATED",
+    "evidence": "Mona questions Hanna about when she is going to have sex with Sean",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "Emily and Maya slip into the photo booth and pose... eventually sharing a lip-lock.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Alison",
+    "target": "Toby",
+    "type": "BLACKMAILED",
+    "evidence": "Alison had been blackmailing Toby with something to get him to take the blame for the fire in the garage.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "A",
+    "target": "Emily",
+    "type": "BLACKMAILED",
+    "evidence": "all four phones buzz with a new text from \" A \" telling them she's hunting them.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "A",
+    "target": "Spencer",
+    "type": "BLACKMAILED",
+    "evidence": "all four phones buzz with a new text from \" A \" telling them she's hunting them.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "A",
+    "target": "Hanna",
+    "type": "BLACKMAILED",
+    "evidence": "all four phones buzz with a new text from \" A \" telling them she's hunting them.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "A",
+    "target": "Aria",
+    "type": "BLACKMAILED",
+    "evidence": "all four phones buzz with a new text from \" A \" telling them she's hunting them.",
+    "season": 1,
+    "episode": 3
+  },
+  {
+    "source": "Hanna",
+    "target": "Tom",
+    "type": "FAMILY",
+    "evidence": "Then, Hanna's father calls, telling her that he is coming to Rosewood.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Hanna",
+    "target": "Ashley",
+    "type": "FAMILY",
+    "evidence": "After wrecking Sean's car, Hanna gets lectured by her mother.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria meets up with Ezra in his classroom, where they admit that neither one of them knows the terms of their relationship.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "Emily approaches Maya at the restaurant where she works, showing her the photos from the party.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Ella informs her that Mike also has other plans, so that dinner will be a romantic evening for two for Byron and Ella.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Spencer",
+    "target": "Wren",
+    "type": "DATED",
+    "evidence": "Spencer walks Wren to his motel room, and before she leaves, the two kiss with Hanna watching in the car.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Tom",
+    "target": "Isabel",
+    "type": "ENGAGED",
+    "evidence": "He starts off the evening having a conversation with his daughter about how she is doing, but then interrupts it to beckon two people over to them: a new fiancé.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Hanna",
+    "target": "Spencer",
+    "type": "FRIEND",
+    "evidence": "In Spencer's room, Hanna tries on outfits for dinner with her father that night.",
+    "season": 1,
+    "episode": 4
+  },
+  {
+    "source": "Byron",
+    "target": "Ella",
+    "type": "FAMILY",
+    "evidence": "They are discussing the possibility of Byron moving out.",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Aria",
+    "target": "Byron",
+    "type": "FAMILY",
+    "evidence": "Aria then walks into the kitchen, where she finds her parents arguing.",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Aria",
+    "target": "Ella",
+    "type": "FAMILY",
+    "evidence": "Aria then walks into the kitchen, where she finds her parents arguing.",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Aria",
+    "target": "Mike",
+    "type": "SIBLING",
+    "evidence": "At Aria's house , Mike enters her bedroom to ask about their parents' unusual behavior.",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Hardy is quick to pick up on Aria and Ezra's scandalous relationship",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Emily",
+    "target": "Toby",
+    "type": "FRIEND",
+    "evidence": "Meanwhile, Emily and Toby's surprising friendship grows even stronger",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Spencer",
+    "target": "Peter",
+    "type": "FAMILY",
+    "evidence": "He greets Spencer as she comes home, letting her know that he bought her buttercreams",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Hanna",
+    "target": "Sean",
+    "type": "DATED",
+    "evidence": "She brings up going with him to homecoming, and he says he'll think about it.",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Hanna",
+    "target": "Ashley",
+    "type": "FAMILY",
+    "evidence": "Ashley reassures her daughter that Sean isn't necessarily dating this girl",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Spencer",
+    "target": "Alex",
+    "type": "FRIEND",
+    "evidence": "Afterwards, she finds a fast, unlikely friend in Alex",
+    "season": 1,
+    "episode": 5
+  },
+  {
+    "source": "Hanna",
+    "target": "Spencer",
+    "type": "FRIEND",
+    "evidence": "Hanna , Spencer , and Emily arrive at Aria's to console her",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Hanna",
+    "target": "Emily",
+    "type": "FRIEND",
+    "evidence": "Hanna , Spencer , and Emily arrive at Aria's to console her",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Hanna",
+    "target": "Aria",
+    "type": "FRIEND",
+    "evidence": "Hanna , Spencer , and Emily arrive at Aria's to console her",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "she's upset over the breakup with Ezra",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Hanna",
+    "target": "Lucas",
+    "type": "FRIEND",
+    "evidence": "Hanna finds an unlikely friend in Lucas",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Sean",
+    "target": "Amber",
+    "type": "DATED",
+    "evidence": "Sean and Amber pair off",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Spencer",
+    "target": "Alex",
+    "type": "DATED",
+    "evidence": "Spencer is indeed taking 'the country club's towel boy', Alex, to Homecoming",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Hanna explains that Mona is funny and has always been there for Hanna",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "STEP-SIBLING",
+    "evidence": "he has no choice but to lead his blind step-sister to where she needs to go.",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "DATED",
+    "evidence": "she knew about Toby's sexual relationship with his step-sister.",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "FAMILY",
+    "evidence": "Melissa... seems intent on ruining the night for her sister.",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "her suspicions are confirmed when Emily can't look her in the eye and deny her feelings for Maya.",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Toby",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Next, Toby surprises Emily with tickets to Homecoming.",
+    "season": 1,
+    "episode": 6
+  },
+  {
+    "source": "Jenna",
+    "target": "Toby",
+    "type": "SIBLING",
+    "evidence": "They tell her that Jenna and Toby had an inappropriate relationship",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Pam sits herself down in Emily's room, hoping to spend some quality time with her daughter.",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Aria begins to wrestle with the separation of her parents",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Ella",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "Ella won't attend Mike's lacrosse game",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Byron",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "They talk about Mike's lacrosse game",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Spencer",
+    "target": "Alex",
+    "type": "DATED",
+    "evidence": "Spencer tries to repair her burgeoning relationship with Alex",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer, as well as her sister, Melissa",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Emily",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "her mother is livid that Emily dated him behind her back.",
+    "season": 1,
+    "episode": 7
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Ashley lets Hanna know that adjustments need to be made until their situation improves.",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Lucas",
+    "target": "Hanna",
+    "type": "ALLIED",
+    "evidence": "Hanna decides to help out... at the suggestion of her new ally, Lucas.",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Jason",
+    "target": "Alison",
+    "type": "SIBLING",
+    "evidence": "Back in real time, they must contend with Alison’s older brother Jason arriving in Rosewood",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Sean",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Meanwhile, Hanna and Sean have made up",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "At the Rosewood Movie Theater, Emily and Maya enjoy their first official date.",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Wayne",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "More good news for Emily is that her father's unit in Afghanistan is returning... meaning that Wayne is coming home.",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria flashes back to her last conversation with Ezra before he disappeared",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Noel",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Hanna tries to convince Aria to go on the double date with her, Sean, and Noel... and she accepts Hanna's date offer.",
+    "season": 1,
+    "episode": 8
+  },
+  {
+    "source": "Hanna",
+    "target": "Spencer",
+    "type": "FRIEND",
+    "evidence": "The beginning of the episode starts with Hanna , Spencer , and Aria studying for the SATs.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Hanna",
+    "target": "Aria",
+    "type": "FRIEND",
+    "evidence": "The beginning of the episode starts with Hanna , Spencer , and Aria studying for the SATs.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Spencer",
+    "target": "Aria",
+    "type": "FRIEND",
+    "evidence": "The beginning of the episode starts with Hanna , Spencer , and Aria studying for the SATs.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Spencer",
+    "target": "Alex",
+    "type": "DATED",
+    "evidence": "There, she has a strange run-in with Spencer's new beau Alex",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Veronica walks in and asks where Emily is... Spencer's new beau Alex",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Aria gets a surprise of her own when she spots Ella , there as a volunteer proctor for the exam.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Aria has been avoiding visiting Ella's new place, not wanting to validate her mother's decision to separate from Byron.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Back at the Marin household, Byron attempts to send the fax when the power goes out there, too.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Hanna",
+    "target": "Lucas",
+    "type": "FRIEND",
+    "evidence": "Hanna says he doesn't have to thank her because he is her friend.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Aria has been avoiding visiting Ella's new place, not wanting to validate her mother's decision to separate from Byron.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "He explains he went to New York to deal with family issues, then admits they were his \"issues,\" and had time to think about the consequences of their relationship.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Emily",
+    "target": "Alison",
+    "type": "DATED",
+    "evidence": "Emily confesses that she loved Alison more than a friend, but never intended any harm towards her.",
+    "season": 1,
+    "episode": 9
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Hanna mentions Mona was her friend when the girls were no longer",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Ashley, though tight on cash, proudly forks over $100 to her daughter",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Byron is struggling to keep up with his new responsibilities as a single parent. Aria is attempting to work on the overwhelming pile of laundry.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Byron",
+    "target": "Ella",
+    "type": "FAMILY",
+    "evidence": "Things are also still awkward between Byron and Ella , as the latter has asked him for space.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Melissa",
+    "target": "Spencer",
+    "type": "SIBLING",
+    "evidence": "Melissa informs Spencer that she is aware Ian is back in town.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Ian",
+    "target": "Melissa",
+    "type": "DATED",
+    "evidence": "Melissa reveals Ian asked her out, but she turned him down, as she's still getting over Wren",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Ian",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "after Melissa and Ian broke up, Spencer dated Ian for a while early last summer.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "she marches up to Ezra in his classroom and tells him that he is hypocritical for writing what he wrote and then denying he loves her.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Maya",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Emily's mother stands in the hallway holding the photos of Emily and Maya kissing.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Wayne",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Emily's father , Wayne, appears in the doorway of her bedroom to surprise her",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Then Pam appears, and her face falls a little when she sees Maya standing there.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "SIBLING",
+    "evidence": "Emily finds out from Toby what really happened between him and Jenna; she was forcing him to have sex with her.",
+    "season": 1,
+    "episode": 10
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Hanna's mom (who is talking to Lucas) comes over to tell them Hanna has a broken leg",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Wayne",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Emily is eating breakfast with her dad and mother.",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Emily is eating breakfast with her dad and mother.",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Wayne",
+    "target": "Pam",
+    "type": "MARRIED",
+    "evidence": "Emily's parents cuddle on the couch and discuss household chores.",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Ian",
+    "target": "Melissa",
+    "type": "MARRIED",
+    "evidence": "Ian admits he and Melissa eloped!",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer gets home, and her creepy sister is actually quite lovely and comforting",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Mona",
+    "target": "Hanna",
+    "type": "FRIEND",
+    "evidence": "The two quickly reconnect and resume their friendship.",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Sean",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Lucas thinks she can do better than Sean",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Ben",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "She reveals that she and her boyfriend, Ben , broke up",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria tells the truth about her and Ezra , and the girls are shocked by Aria's involvement with a teacher.",
+    "season": 1,
+    "episode": 11
+  },
+  {
+    "source": "A",
+    "target": "Hanna",
+    "type": "BLACKMAILED",
+    "evidence": "YOU'LL GET YOUR $$$ BACK. IF YOU DO WHAT I SAY. SWEET DREAMS -A.",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Like Mommy, like daughter.",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "meet the girl who‘s won her heart",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Emily convinces her parents to have Maya over for dinner",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Spencer",
+    "target": "Alex",
+    "type": "DATED",
+    "evidence": "Spencer makes out with her blue-collar beau, Alex",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "reminds Spencer that she was a big part of making her sister's life difficult",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "STEP-SIBLING",
+    "evidence": "keeping him all too close to step-sister Jenna.",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Hanna mentions that Aria should have told them about her relationship with Ezra much sooner",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Noel",
+    "target": "Ezra",
+    "type": "BLACKMAILED",
+    "evidence": "Noel approaches Mr. Fitz with his harshly graded paper and gives him a bunch of pointed threats.",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Hanna",
+    "target": "Sean",
+    "type": "DATED",
+    "evidence": "Hanna and Sean are telling a story about skiing",
+    "season": 1,
+    "episode": 12
+  },
+  {
+    "source": "Melissa",
+    "target": "Ian",
+    "type": "MARRIED",
+    "evidence": "Melissa then says, 'I don't feel like I need to be the best and the first anymore... Melissa has been married for all of three days'",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "FAMILY",
+    "evidence": "Spencer is concerned that her super-driven sister has been married for all of three days",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Ian",
+    "target": "Spencer",
+    "type": "FAMILY",
+    "evidence": "He claims he and Spencer are now family and so she has to start looking at him like that.",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "At the Montgomerys' place , Aria's dad made breakfast for Aria and her brother .",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Byron",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "At the Montgomerys' place , Aria's dad made breakfast for Aria and her brother .",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Aria",
+    "target": "Mike",
+    "type": "SIBLING",
+    "evidence": "At the Montgomerys' place , Aria's dad made breakfast for Aria and her brother .",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "The rest of the girls surprise Emily by sneaking her away for one last romantic night with Maya",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "As Ashley drops Hanna off at The Grille , Hanna brings up her guilt over losing the money.",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Aria tells him she loves him, and they kiss passionately.",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Pam walks into Emily's room , saying they need to talk.",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "A",
+    "target": "Hanna",
+    "type": "BLACKMAILED",
+    "evidence": "Hanna finds a note attached to a Benjamin Franklin bill in her locker, instructing her to go to 21 Main St. ... signed 'A.'",
+    "season": 1,
+    "episode": 13
+  },
+  {
+    "source": "A",
+    "target": "Hanna",
+    "type": "BLACKMAILED",
+    "evidence": "A sends Hanna a text saying: ''Wanna keep Mommy out of prison? I've got a job for you. --A.",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Ezra replies, saying he's in love with someone else already (Aria).",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "The guards won't allow her to speak to her girlfriend.",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Hanna",
+    "target": "Sean",
+    "type": "DATED",
+    "evidence": "Sean says she can be with him too and breaks up with Hanna, saying We're over.",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Byron",
+    "target": "Ella",
+    "type": "FAMILY",
+    "evidence": "Byron brings his estranged wife a drink, and their song starts playing",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Aria's mom invited Simone to speak to her English class",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Aria's parents are both chaperoning the dance as well",
+    "season": 1,
+    "episode": 14
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria plans to make a date night with Ezra out of the tickets so they can have an expected date out of town.",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Jason",
+    "target": "Alison",
+    "type": "FAMILY",
+    "evidence": "She thinks Alison's brother, Jason, may have taken the photo.",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "She manages to slide the door shut before her mother, Ashley, walks into the kitchen",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Ella catches her daughter in the school hallway and invites her to go shopping after school.",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Byron",
+    "target": "Ella",
+    "type": "MARRIED",
+    "evidence": "Still, a re-ignited spark between the couple keeps Ella from going to the gala altogether and opting for a steamy kiss and a dinner date with her husband instead.",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Paige",
+    "target": "Emily",
+    "type": "FRIEND",
+    "evidence": "Paige seems overall happy about Emily's return to the team.",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "FRIEND",
+    "evidence": "She compares him to barnacles, making him smile.",
+    "season": 1,
+    "episode": 15
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "It seems Byron is having difficulty coping with all the responsibilities of being a single father; Aria reminds him he still needs to write a check",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Then, Ella passes her daughter in the hallway and lets her know she has just been speaking to the principal",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Byron",
+    "target": "Ella",
+    "type": "MARRIED",
+    "evidence": "Crouching inside the library, they see Byron and Ella making out, having an intra-marital affair!",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "FAMILY",
+    "evidence": "Still, things get characteristically tense between the Hastings sisters when Spencer begins to grill Melissa",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Ian",
+    "target": "Melissa",
+    "type": "DATED",
+    "evidence": "Melissa admits to her sister that she knows about Spencer's kiss with Ian, but she'd like to move on",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Ian",
+    "target": "Spencer",
+    "type": "FAMILY",
+    "evidence": "Before Ian leaves, he puts his sister-in-law on the spot, letting Melissa know that Spencer is 'quitting the team.'",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "FRIEND",
+    "evidence": "The two continue like that, exchanging names for information, as their friendship grows.",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Emily",
+    "target": "Paige",
+    "type": "FRIEND",
+    "evidence": "She tells her new friend that the way she got over not wanting to swim any longer was by starting to do it for fun",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "FAMILY",
+    "evidence": "he also doesn't want to study with Spencer in the house, too close to Jenna.",
+    "season": 1,
+    "episode": 16
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Spencer expresses her disapproval of Hanna's growing relationship with Caleb",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Spencer is making fun of Aria's relationship with their teacher.",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Then, Ella and Byron walk by in the hallway discussing Byron's attendance at the next night's parent-teacher conferences.",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Hanna tries to talk Ashley out of it, as Mrs. Potter has no use for it anymore, but Ashley insists it's the right thing to do.",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Unexpectedly, Mrs. Fields stops by Emily's room... abashed, Mrs. Fields explains that she only meant to offer her daughter some extra cobbler",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Nick McCullers",
+    "target": "Paige",
+    "type": "PARENT",
+    "evidence": "Nick McCullers, Paige's equally driven father, makes an entrance",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "The girls discuss the strangeness of Melissa's rapid change in life plans.",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "STEP-SIBLING",
+    "evidence": "Spencer revisits Toby's house... She goes snooping into Jenna's room... Toby warns her not to",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Paige",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Emily, thinking that Paige is yet again blaming her talents, goes off on her, but she is shut up with a kiss.",
+    "season": 1,
+    "episode": 17
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "In response, Ezra kisses Aria, and the two make up.",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "It seems Hanna was afraid of her feelings for Caleb, but isn't anymore. The two kiss for the first time.",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "At the Marin household, Ashley grows increasingly suspicious of their lack of food, as Hanna has been secretly housing foster kid, Caleb in their basement.",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Byron mentions Aria is looking at \"colleges in California\"",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Emily",
+    "target": "Toby",
+    "type": "FRIEND",
+    "evidence": "Emily assures him that she means it only as friends, and the two plan a breakfast date.",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "FRIEND",
+    "evidence": "Spencer says she is very sorry for thinking that too and takes Toby's hand to comfort him.",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Hanna and Mona also catch up at play practice",
+    "season": 1,
+    "episode": 18
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Ian Thomas",
+    "type": "DATED",
+    "evidence": "Spencer suggests Ian may have been into younger girls, but when asked to back up that claim, she pointedly does not mention she dated him",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Melissa Hastings",
+    "target": "Ian Thomas",
+    "type": "MARRIED",
+    "evidence": "Melissa and Ian portray Spencer's accusation as another way for Spencer to have everything her sister has or take it away",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Toby Cavanaugh",
+    "type": "ALLIED",
+    "evidence": "Spencer and Toby form an unlikely alliance as the two grow increasingly suspicious of Jenna",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Spencer Hastings",
+    "target": "Toby Cavanaugh",
+    "type": "DATED",
+    "evidence": "Spencer and Toby part in the parking lot of the motel. Toby is planning to stay another night and invites Spencer to come back. The two share an unexpected first kiss.",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Hanna Marin",
+    "target": "Caleb Rivers",
+    "type": "DATED",
+    "evidence": "Hanna and Caleb come home from school and start kissing passionately.",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Emily Fields",
+    "target": "Paige McCullers",
+    "type": "DATED",
+    "evidence": "Emily and Paige share a kiss in the parking lot of the karaoke bar.",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Aria Montgomery",
+    "target": "Ezra Fitz",
+    "type": "DATED",
+    "evidence": "Aria plans a gourmet dinner in Ezra's apartment.",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Melissa Hastings",
+    "target": "Spencer Hastings",
+    "type": "SIBLING",
+    "evidence": "Melissa and Ian portray Spencer's accusation as another way for Spencer to have everything her sister has",
+    "season": 1,
+    "episode": 19
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Aria discovers her parents' secret romance when she notices two dirty coffee cups on the kitchen table",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Hanna and Caleb seem closer than ever.",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Sean",
+    "target": "Paige",
+    "type": "DATED",
+    "evidence": "Aria spots Sean and Paige flirting with each other as they share a table",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "To protect the privacy of her relationship with Ezra , she creates a bag filled with mementos",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "FRIEND",
+    "evidence": "she continues to form an unlikely friendship with Toby",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "When she was 7, she and Melissa got into a huge fight",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Veronica walks into her room to encourage her daughter not to be afraid of the search warrant.",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Paige",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Eventually, Paige kisses Emily.",
+    "season": 1,
+    "episode": 20
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "she runs straight into Toby's arms and kisses him",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "The last line on the letter reads, \"I love you, Hanna.\"",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria intentionally knocks the coffee out of Ezra's hand... she discreetly whispers an invitation to Ezra for a quiet weekend",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Emily",
+    "target": "Paige",
+    "type": "DATED",
+    "evidence": "Emily... tells her it's over between them as she can't deal with her twists and turns",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Melissa",
+    "target": "Ian",
+    "type": "MARRIED",
+    "evidence": "Melissa's husband, Ian",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Seeing her daughter distraught, Ashley offers to let Hanna stay home",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "she spots her mother, Ella, approaching",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Jenna",
+    "target": "Toby",
+    "type": "BLACKMAILED",
+    "evidence": "she's seducing and blackmailing Toby",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer's sister... Melissa",
+    "season": 1,
+    "episode": 21
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "FAMILY",
+    "evidence": "At the Montgomerys , Ella is over helping Byron with some parental responsibilities.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Aria",
+    "target": "Ella",
+    "type": "FAMILY",
+    "evidence": "Aria freaks out and yells at Ella, telling her to decide her feelings for Byron because her indecisiveness is hurting the whole family.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "At Hanna's , Ashley tries to snap Hanna out of moping over Caleb.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "FAMILY",
+    "evidence": "Pam enters and asks to talk to Emily. She lets Emily know Wayne has been reassigned to work in Texas.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Wayne",
+    "target": "Emily",
+    "type": "FAMILY",
+    "evidence": "She lets Emily know Wayne has been reassigned to work in Texas and informs Emily that the family is moving to Texas for a year to be with him.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Ezra also has news that he's resigning from Rosewood High to work at Hollis College instead, rendering his relationship with Aria less problematic.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Ian",
+    "target": "Melissa",
+    "type": "MARRIED",
+    "evidence": "Ian seems to have disappeared, leaving his injured pregnant wife to cope with the stress alone.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Melissa",
+    "target": "Spencer",
+    "type": "SIBLING",
+    "evidence": "Spencer goes to pick Melissa up from the church, where she has been planning the christening for her unborn child.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Toby",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "She then tells him he is her safe place to land, and that she wants him to stay safe. They kiss again.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "DATED",
+    "evidence": "He turns to Garrett Reynolds , who lets her know he will make sure nothing happens. He then kisses her.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Alison",
+    "target": "Jenna",
+    "type": "BLACKMAILED",
+    "evidence": "Alison played footage of her seducing Toby and used it as blackmail.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Hanna",
+    "target": "Ian",
+    "type": "BLACKMAILED",
+    "evidence": "Hanna texts him a blackmail message demanding $10,000 in exchange for the videos.",
+    "season": 1,
+    "episode": 22
+  },
+  {
+    "source": "Melissa",
+    "target": "Ian",
+    "type": "MARRIED",
+    "evidence": "Spencer then blasts her parents for not believing her story; she re-declares Ian dead despite her mother’s protests.",
+    "season": 2,
+    "episode": 1
+  },
+  {
+    "source": "Caleb",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "He says, \"I love you,\" but her mind is made up.",
+    "season": 2,
+    "episode": 1
+  },
+  {
+    "source": "Noel",
+    "target": "Mona",
+    "type": "DATED",
+    "evidence": "Just then, Noel arrives to bestow a kiss on Mona. Apparently, they are dating now.",
+    "season": 2,
+    "episode": 1
+  },
+  {
+    "source": "Toby",
+    "target": "Emily",
+    "type": "FRIEND",
+    "evidence": "He forgives her and notes how easy it has been to pick up their friendship right where they left off.",
+    "season": 2,
+    "episode": 1
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Ezra tries to apologize about Jackie, but Aria is mostly unresponsive and leaves their relationship status up in the air.",
+    "season": 2,
+    "episode": 1
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Back at the Hastings’ residence, Officer Garrett is speaking with Melissa and her parents regarding Ian",
+    "season": 2,
+    "episode": 1
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer wonders if Melissa is expecting a call from someone other than the police.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "She chases him down, calls out his name, runs to embrace him, and the two kiss passionately.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Mona is very pleased to have her friend back.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "Toby reassures her he isn't ready to let go of her just yet.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Emily is also arguing with her mother, but about her cell phone privileges.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "At the Marins, Hanna argues with her mother over her father's return.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Tom",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "She finds her father's involvement hypocritical, when he has had such little interaction with her in the first place.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Ashley",
+    "target": "Tom",
+    "type": "FAMILY",
+    "evidence": "He tries to endear his ex-wife by offering her a martini, a pastime of the former couple.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Emily",
+    "target": "Samara",
+    "type": "DATED",
+    "evidence": "Samara tries to convince Emily to go out on a date with her.",
+    "season": 2,
+    "episode": 2
+  },
+  {
+    "source": "Melissa",
+    "target": "Spencer",
+    "type": "SIBLING",
+    "evidence": "Melissa is shining a flashlight in her sister's face",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Melissa",
+    "target": "Ian",
+    "type": "MARRIED",
+    "evidence": "she's not going to choose between her sister and her husband.",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "shoplifting with Mona is boring.",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Toby",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "Toby and Spencer share their first \"'I love you,\" initiated by Toby",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "The two lovers share a kiss",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Ashley",
+    "target": "Tom",
+    "type": "FAMILY",
+    "evidence": "Hanna witnesses her father and mother getting along so well together again",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Tom",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Tom tells his daughter about some of the differences he's having with his fiancée",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Tom",
+    "target": "Isabel",
+    "type": "ENGAGED",
+    "evidence": "Tom tells his daughter about some of the differences he's having with his fiancée",
+    "season": 2,
+    "episode": 3
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer comes out and reports the bad news - she basically stole her sister's wedding ring.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Melissa",
+    "target": "Ian",
+    "type": "MARRIED",
+    "evidence": "Melissa is still searching for her ring AND for Ian's passport.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Now that Mr. Fitz will no longer be teaching at her high school, her mother, Ella , will be her new English teacher.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Mike",
+    "target": "Aria",
+    "type": "SIBLING",
+    "evidence": "Ella mentions she needs Aria to meet up with her brother, Mike , later",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Pam is as happy as ever, celebrating Emily's inevitable acceptance into Danby.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Samara",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Samara accepts - this dinner seems like it'll be very different than the last time a girlfriend of Emily's came over.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Hanna, still disgruntled by Caleb, refuses, but then gives in for Lucas' sake.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Lucas",
+    "target": "Danielle",
+    "type": "DATED",
+    "evidence": "Lucas is a total mess; he is beyond nervous about his upcoming date with Danielle.",
+    "season": 2,
+    "episode": 4
+  },
+  {
+    "source": "Melissa",
+    "target": "Ian",
+    "type": "MARRIED",
+    "evidence": "Melissa is completely silent because she's traumatized.",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer tries to smooth things out with Melissa",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Veronica apologizes to Spencer for not trusting her.",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Veronica",
+    "target": "Melissa",
+    "type": "PARENT",
+    "evidence": "Veronica doesn't want to get involved at all, but out of sympathy for Melissa",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Caleb",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Hanna's heart is officially melted, and she kisses Caleb",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Ashley returns home frazzled that Hanna hasn't answered her phone",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "They are sharing an intimate moment",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Janet",
+    "target": "Caleb",
+    "type": "PARENT",
+    "evidence": "Caleb's foster mother's treatment of him",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Mike informs his parents he is heading out",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Mike informs his parents he is heading out",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Mike",
+    "target": "Aria",
+    "type": "SIBLING",
+    "evidence": "Aria tries to question her brother about the incident at school",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Garrett Reynolds",
+    "target": "Jenna",
+    "type": "ALLIED",
+    "evidence": "Garrett then calls Jenna to let her know it has been taken care of.",
+    "season": 2,
+    "episode": 5
+  },
+  {
+    "source": "Aria",
+    "target": "Mike",
+    "type": "FAMILY",
+    "evidence": "Aria assures him she won't, and thanks him again for helping her brother , Mike.",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Tom",
+    "target": "Ashley",
+    "type": "FAMILY",
+    "evidence": "Tom and Ashley are cooking a farewell dinner",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Tom",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Hanna is rude to her father , who plans to leave Rosewood tomorrow.",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "Spencer makes out with Toby in her kitchen.",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Pam",
+    "target": "Wayne",
+    "type": "MARRIED",
+    "evidence": "Pam reveals that she badly misses her husband",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Emily",
+    "target": "Pam",
+    "type": "CHILD",
+    "evidence": "At the Fields' home , Pam is on the phone with Wayne . When it is Emily's turn to speak",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Jessica",
+    "target": "Jason",
+    "type": "PARENT",
+    "evidence": "she has little choice but to respect her son's decision.",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "At the Montgomerys' house, Aria and Ella talk.",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "she asks him to wait, basically agreeing to the romantic possibility between them.",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Samara",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Samara adds that she isn't necessarily against dating other people, as Emily has made it clear she wants to take her relationship with Samara slowly",
+    "season": 2,
+    "episode": 6
+  },
+  {
+    "source": "Hanna",
+    "target": "Emily",
+    "type": "FRIEND",
+    "evidence": "Emily and Hanna will be sharing a room now that Emily is set to move in.",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Hanna and Ashley try to assure Emily that she's now a part of their family",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Ella helps Aria pick out an outfit for the next night",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Byron suggests inviting Ezra and a plus-one while Aria tries to appear nonchalant",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "He persuades her that it will finally be their opportunity to warm Ella and Byron up to the Aria and Ezra interacting",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Peter",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "At the Hastings' residence, Spencer discusses her father's upcoming construction projects.",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "After he leaves, Spencer and Toby kiss.",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Byron",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "Byron visits Mike's room to let him know he is expected the following evening at dinner.",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Hanna meets up with Caleb, who has just been stiffed by someone whose phone he was commissioned to 'pimp out.'",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Jason",
+    "target": "Aria",
+    "type": "ALLIED",
+    "evidence": "Jason and Aria exchange knowing looks, at which Ezra raises an eyebrow.",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Ashley",
+    "target": "Tom",
+    "type": "DATED",
+    "evidence": "They peep their heads out to look and spy on Ashley and Tom, giggling before kissing.",
+    "season": 2,
+    "episode": 7
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "DATED",
+    "evidence": "Garrett approaches her, starts to caress her shoulders, then starts kissing her slowly; Jenna kisses him back.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Tom",
+    "target": "Isabel",
+    "type": "ENGAGED",
+    "evidence": "Ashley... tears into the envelope, exposing Tom and Isabel's \"Save the Date\" notice.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Tom",
+    "target": "Ashley",
+    "type": "FAMILY",
+    "evidence": "Ashley hands Hanna an envelope addressed to her, and Hanna reluctantly admits to her mother that it's from Isabel.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "She tells him to get lost and leave her boyfriend alone.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "He puts his arms around her and tries to woo her, but she asks him to wait until later.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Wayne",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Happily, she embraces her father to discover that he came alone to Rosewood",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Ella",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "Ella comes in trying to get answers about his behavior.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "SIBLING",
+    "evidence": "Toby is out on an errand picking up his parents from the airport.",
+    "season": 2,
+    "episode": 8
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria saunters into Ezra’s office and removes some of her layers until her bra and black lace top are revealed.",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Emily",
+    "target": "Samara",
+    "type": "DATED",
+    "evidence": "Samara is dropping off some chocolate chip cupcakes before stealing a kiss from Emily.",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "They will be conducting a long-distance relationship until he returns - this date is unsettled. They share kisses and \"I love yous\"",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Byron sets the table for dinner when Ella returns home.",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Ella",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "Ella is on the phone with Mike's guidance counselor to let her know Mike will be staying home from school",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Byron",
+    "target": "Mike",
+    "type": "PARENT",
+    "evidence": "Byron marches upstairs and bangs on Mike's door until he gets out of bed",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Aria",
+    "target": "Mike",
+    "type": "SIBLING",
+    "evidence": "When Aria expresses her concern for her brother, Jason puts his hand on her shoulder.",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "In the Hastings ’ kitchen, Spencer confides in her mother about the hockey stick.",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Jenna",
+    "target": "Garrett",
+    "type": "ALLIED",
+    "evidence": "Meanwhile, Jenna and Garrett survey the two from inside Garrett’s clandestinely parked car.",
+    "season": 2,
+    "episode": 9
+  },
+  {
+    "source": "Jason",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "When he realized the pictures were all of Aria, he planned to frame them and give them to her.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "ALLIED",
+    "evidence": "Spencer leaves too, to pack up Ian's stuff with Toby's help.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Ashley is in the kitchen when Hanna comes down for breakfast.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Tom",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Ashley also finds a letter from Tom expressing his appreciation of Hanna agreeing to attend his wedding.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Aria tells him she is worried that 'outside forces' are threatening their relationship because it's a secret.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Jenna",
+    "target": "Garrett",
+    "type": "ALLIED",
+    "evidence": "Then, Jenna enters Garrett's car and fumingly informs him Spencer knows about their relationship",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Garrett",
+    "target": "Jason",
+    "type": "ALLIED",
+    "evidence": "Garrett pulls up to Jason's house, who is quietly sitting on his porch steps. Jason greets Garrett casually, like they're old friends.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Kate",
+    "target": "Hanna",
+    "type": "STEP-SIBLING",
+    "evidence": "Hanna tries to give her future stepfamily a chance.",
+    "season": 2,
+    "episode": 10
+  },
+  {
+    "source": "Emily",
+    "target": "Hanna",
+    "type": "FRIEND",
+    "evidence": "The Liars gather in Hanna's room and discuss where Emily could have gone.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Emily",
+    "target": "Spencer",
+    "type": "FRIEND",
+    "evidence": "The Liars gather in Hanna's room and discuss where Emily could have gone.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Emily",
+    "target": "Aria",
+    "type": "FRIEND",
+    "evidence": "The Liars gather in Hanna's room and discuss where Emily could have gone.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Toby",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "Toby insists they are immune to Jenna's games, and then he plants a kiss on Spencer.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "SIBLING",
+    "evidence": "Toby runs behind a tree, unseen by Garrett , then he sees Garrett kissing his stepsister.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Hanna",
+    "target": "Kate",
+    "type": "STEP-SIBLING",
+    "evidence": "Hanna is gifting the books to her soon-to-be stepsister, Kate.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "At home, Ella and Byron argue about proper treatment for Mike's depression.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Just then, Aria walks in, noting that her father is late for his own class.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Just then, Aria walks in, noting that her father is late for his own class.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "At the Marins , Hanna flirts with Caleb on the phone",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Tom",
+    "target": "Isabel",
+    "type": "MARRIED",
+    "evidence": "Regina, who bluntly tells Hanna that she disapproves of Tom marrying Isabel.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "Maya and Emily share an intimate candlelit dinner for two.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Peter",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Spencer returns home to face her father on the living room couch.",
+    "season": 2,
+    "episode": 11
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "Emily is eager for Hanna to leave so she can spend some private time with Maya.",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "He calls out for Spencer as she walks past, confessing his love for her.",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Hanna is happy to see him, as this time is particularly stressful for her.",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "He says, 'I'm in love with her.'",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "ALLIED",
+    "evidence": "Their conversation also reveals that they wrote the note to Jason, making him suspect that he had killed his own sister.",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Tom",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Hanna expresses her fears of losing her dad, who has been gone for the past two years.",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Wren",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "Wren suddenly confesses he’s desperate to kiss her.",
+    "season": 2,
+    "episode": 12
+  },
+  {
+    "source": "Alison",
+    "target": "Hanna",
+    "type": "FRIEND",
+    "evidence": "Hanna thinks Alison should stop, but the child is riveted.",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Emily",
+    "target": "Ben",
+    "type": "DATED",
+    "evidence": "Emily reveals that she's going with Ben",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Ian",
+    "target": "Melissa",
+    "type": "DATED",
+    "evidence": "Ian is there with Melissa in their Bonnie and Clyde costumes.",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Byron",
+    "target": "Meredith",
+    "type": "DATED",
+    "evidence": "they see Byron and Meredith making out in his car.",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Melissa",
+    "target": "Spencer",
+    "type": "SIBLING",
+    "evidence": "Melissa praises Spencer’s speech for class president",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Jason",
+    "target": "Alison",
+    "type": "SIBLING",
+    "evidence": "When Jason enters without knocking, she immediately shuts the notebook.",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Byron announces that Meredith is dropping his class... Byron tries to embrace Aria",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Hanna enters the kitchen with her Britney costume, as her mother sits reading the newspaper",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Mona",
+    "target": "Jenna",
+    "type": "FRIEND",
+    "evidence": "Mona declares her to be the best Gaga, and the two introduce themselves, seeming to start a friendship.",
+    "season": 2,
+    "episode": 13
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Byron visits Ezra in his office... referring to Aria's arrest.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Ella and Byron discuss what just transpired... Aria comes downstairs and asks them not to make a decision tonight.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "The next morning, Hanna talks to Ashley in the kitchen.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Tom",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Ashley steps in to remind them he is moving to Rosewood to be close to his daughter because he loves her.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Mike",
+    "target": "Aria",
+    "type": "SIBLING",
+    "evidence": "Next, Aria is walking down Main Street with Mike... Mike shares details about his psychiatrist with Aria.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Ezra does most of the talking, explaining he's in love with Aria",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Jackie",
+    "target": "Aria",
+    "type": "BLACKMAILED",
+    "evidence": "Jackie had been blackmailing her, and after all the trouble with the cops, Aria didn't want to drag Ezra into it.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "DATED",
+    "evidence": "Spencer overhears Garrett on the phone with Jenna, learning she won't be coming to school that day.",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Caleb",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Caleb returns to Rosewood and Hanna is very happy to see him. They kiss in her foyer",
+    "season": 2,
+    "episode": 14
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "He worries that her keeping the information surrounding this phone a secret could be a problem for their relationship. She assures him it's not important, then they kiss.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Byron walks by and tells her to change her clothes because she is dressed inappropriately.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "She tells Aria to pick her battles while choosing new clothes for her to wear.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria leaves him a voicemail telling him how much she loves him and that things will eventually blow over.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Mike",
+    "target": "Ezra",
+    "type": "ALLIED",
+    "evidence": "She admits to having liked Ezra before his confession yesterday, in which Mike punched him in the jaw.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "As they sit in his truck during this private conversation, they begin to kiss despite the discussion they just had.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "DATED",
+    "evidence": "Garrett says he can't because he actually loves her and will keep proving it to her if he has to.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Ella",
+    "target": "Byron",
+    "type": "MARRIED",
+    "evidence": "Ella and Byron argue over what to do about the situation with Aria and Ezra.",
+    "season": 2,
+    "episode": 15
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "ENGAGED",
+    "evidence": "Hanna then reveals that she and Caleb have been fighting, and that it sucks being the girlfriend who knows too much",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Mona confesses to Hanna how she thinks she is losing Noel",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Mrs. Marin has a lot of questions for Emily and Hanna the next morning.",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria confesses to Spencer that her mom thinks she made a date with Holden when she really called Ezra",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "She called to talk about their date that night",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Mona",
+    "target": "Noel",
+    "type": "DATED",
+    "evidence": "Mona confesses to Hanna how she thinks she is losing Noel after Caleb 's party",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Garrett",
+    "target": "Jenna",
+    "type": "ALLIED",
+    "evidence": "Garrett visited Jenna for 20 minutes, signed her out, but then they never signed back in.",
+    "season": 2,
+    "episode": 16
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Caleb confronts Hanna in her kitchen about the cell phone having something to do with Alison's murder.",
+    "season": 2,
+    "episode": 17
+  },
+  {
+    "source": "Spencer",
+    "target": "Toby",
+    "type": "DATED",
+    "evidence": "Toby says he came by to pick up his tools since Spencer's father fired him, and that Spencer has been sending him mixed signals lately.",
+    "season": 2,
+    "episode": 17
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "She tells him she doesn't want their relationship to be over, but if it is, they should talk about it in person.",
+    "season": 2,
+    "episode": 17
+  },
+  {
+    "source": "Jenna",
+    "target": "Toby",
+    "type": "FAMILY",
+    "evidence": "Jenna calls Spencer \"haunted\" and reminds Toby they're family, whether he likes it or not.",
+    "season": 2,
+    "episode": 17
+  },
+  {
+    "source": "Wren",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "Wren admits he kissed Spencer and that she told him at the time she was no longer with Toby.",
+    "season": 2,
+    "episode": 17
+  },
+  {
+    "source": "Mona",
+    "target": "Noel",
+    "type": "DATED",
+    "evidence": "Hanna tries to console Mona over her break-up with Noel",
+    "season": 2,
+    "episode": 17
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "DATED",
+    "evidence": "Hanna confronts Caleb about going behind her back. He says he knows she's trying to protect him, but he's worried about her.",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "The good news is her mom is slowly coming round to the idea of them dating.",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "Maya tells Emily she loves her. Emily said she loves her too, and they lie down on Maya's bed.",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "In Marin's kitchen , Hanna and Ashley eat dinner in silence",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Aria and Holden are picked up by Byron",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Pam",
+    "target": "Emily",
+    "type": "PARENT",
+    "evidence": "Emily gets a text from Pam , who's returning for a visit tomorrow.",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Hanna",
+    "target": "Kate",
+    "type": "STEP-SIBLING",
+    "evidence": "Ashley assures her that Tom made it clear to Kate that if there were any problem between her and Hanna, there would be consequences.",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Spencer",
+    "target": "Hanna",
+    "type": "FRIEND",
+    "evidence": "Spencer goes to Hanna's to apologize, and says that going behind her back wasn't an act of betrayal; it was desperation.",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Aria",
+    "target": "Spencer",
+    "type": "FRIEND",
+    "evidence": "Aria and Spencer sit alone in Spencer's kitchen . Spencer asks Aria to sleep over, as they both need the company",
+    "season": 2,
+    "episode": 18
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "She sits beside Hanna on her bed and says she loves her very much and will crush anyone who tries to hurt her.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Isabel",
+    "target": "Kate",
+    "type": "PARENT",
+    "evidence": "Isabel arrives at the school, worried about Kate.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Hanna",
+    "target": "Kate",
+    "type": "STEP-SIBLING",
+    "evidence": "Hanna , Ashley , Isabel , and Kate sit outside the Vice Principal's office in silence.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Caleb",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Hanna wants him to forget about that and asks him to hold her. Then, they kiss.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Spencer is outraged with Veronica for keeping this secret from her.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Peter",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Spencer asks if her dad is his as well.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Peter",
+    "target": "Jason",
+    "type": "PARENT",
+    "evidence": "Spencer asks if her dad is his as well.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Mona",
+    "target": "Emily",
+    "type": "FRIEND",
+    "evidence": "Mona says she now needs Emily's help and asks what people wear to swim meets... Emily smiles.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Aria",
+    "target": "Holden",
+    "type": "DATED",
+    "evidence": "Holden approaches Aria and asks if they're still going out on Saturday",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Ella says that was the reason they moved to Iceland; she wanted to give Aria something else to think about.",
+    "season": 2,
+    "episode": 19
+  },
+  {
+    "source": "Maya",
+    "target": "Emily",
+    "type": "DATED",
+    "evidence": "Maya asks Emily to come with her, but Emily can't, not even for Maya.",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Caleb",
+    "target": "Hanna",
+    "type": "DATED",
+    "evidence": "Hanna says he could have told him the meaning of 1105 - November 5, the night they had sex for the first time.",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Ezra corrects her, saying he must really love her since it's a French vegan restaurant.",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Ella says she's taking Aria and Holden to the city on their date",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Byron says that dating her English teacher is extreme, and he's just not ready to trust her yet.",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Peter",
+    "target": "Spencer",
+    "type": "FAMILY",
+    "evidence": "Spencer's father Peter explains what happened between him and Jessica DiLaurentis.",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Ashley stares at her daughter in silence for a moment before leading her out of the building.",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Jason",
+    "target": "Alison",
+    "type": "SIBLING",
+    "evidence": "Jason admits he found another one of Alison's boxes under the floorboards in her room",
+    "season": 2,
+    "episode": 20
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer has just told Melissa about Jason being their half-brother.",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Mona replies that she wouldn't do anything that would hurt her best friend and her mom.",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "FAMILY",
+    "evidence": "Ashley replies that she could lose Hanna, because if Hanna's father wanted to sue for full custody",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria admits they are actually still seeing each other.",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Ella",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Ella shows her the letter 'A' sent to Byron and asks Aria if she knows who sent it.",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "FAMILY",
+    "evidence": "Ella shows her the letter 'A' sent to Byron and asks Aria if she knows who sent it.",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Spencer",
+    "target": "Wren",
+    "type": "DATED",
+    "evidence": "Spencer, clearly drunk and acting very flirtatious, starts kissing him.",
+    "season": 2,
+    "episode": 21
+  },
+  {
+    "source": "Emily",
+    "target": "Maya",
+    "type": "DATED",
+    "evidence": "Emily is frustrated that she hasn't heard from Maya.",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Melissa reminds Spencer how their parents stopped fighting the day Alison went missing",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Aria",
+    "target": "Ella",
+    "type": "FAMILY",
+    "evidence": "Aria packs her books for school, and Ella tells her that Byron will be returning home",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Aria",
+    "target": "Byron",
+    "type": "FAMILY",
+    "evidence": "Byron walks in on Aria trying to pick a dress for the dance. He wants to know what color she'll be wearing",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Hanna",
+    "target": "Ashley",
+    "type": "FAMILY",
+    "evidence": "Hanna confronts her mom as soon as she arrives home.",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Hanna",
+    "target": "Tom",
+    "type": "FAMILY",
+    "evidence": "Hanna tells Ashley that Tom is bailing on the dance due to a \"prior commitment.\"",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Hanna",
+    "target": "Mona",
+    "type": "FRIEND",
+    "evidence": "Hanna tells Mona that Caleb is in Montecito with his family as they walk down Main Street at night.",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Emily",
+    "target": "Wayne",
+    "type": "FAMILY",
+    "evidence": "Emily's father, Wayne, is back in town for the father-daughter dance.",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Spencer",
+    "target": "Peter",
+    "type": "FAMILY",
+    "evidence": "Peter walks in and hugs Spencer, and gets her to promise to wear the necklace to the dance tomorrow night.",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Aria",
+    "target": "Mike",
+    "type": "SIBLING",
+    "evidence": "Aria catches Mike shaving at the bathroom mirror and jokes that if Byron were there, he'd be taking pictures",
+    "season": 2,
+    "episode": 22
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "SIBLING",
+    "evidence": "Toby reminds her she's his sister and has been through a lot.",
+    "season": 2,
+    "episode": 23
+  },
+  {
+    "source": "Ezra",
+    "target": "Aria",
+    "type": "DATED",
+    "evidence": "Ezra calls Aria and leaves a voicemail telling her he loves her.",
+    "season": 2,
+    "episode": 23
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Hanna argues with her mom about getting a replacement phone.",
+    "season": 2,
+    "episode": 23
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Ella reproaches Byron for trying to buy off Fitz... The only person she cares about is Aria.",
+    "season": 2,
+    "episode": 23
+  },
+  {
+    "source": "Veronica",
+    "target": "Spencer",
+    "type": "PARENT",
+    "evidence": "Veronica scolds Spencer for complicating things by inviting Jason over to the house.",
+    "season": 2,
+    "episode": 23
+  },
+  {
+    "source": "Spencer",
+    "target": "Melissa",
+    "type": "SIBLING",
+    "evidence": "Spencer comes clean about her parents' belief that her sister could have had something to do with Alison's death.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "He tells her he loves her and kisses her. Still kissing, they peel away layers of clothing and move to the bed.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Toby",
+    "target": "Jenna",
+    "type": "STEP-SIBLING",
+    "evidence": "Toby walks by Jenna's room as she prepares to take off the bandage covering her surgically repaired eye.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Melissa",
+    "target": "Garrett",
+    "type": "DATED",
+    "evidence": "Melissa and Garrett are in the kitchen. He helps her lift the package she picked up earlier, and then they kiss.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Hanna",
+    "target": "Caleb",
+    "type": "ENGAGED",
+    "evidence": "Hanna asks Caleb to help with the plan to trap 'A.' He does not like the idea, especially since it involves Mona, but ultimately he agrees.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Byron",
+    "target": "Aria",
+    "type": "PARENT",
+    "evidence": "Aria finds a boarding school application in Vermont that Byron has faxed to Ella with instructions to send over Aria's transcripts.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Ashley",
+    "target": "Hanna",
+    "type": "PARENT",
+    "evidence": "Ashley hears a phone ringing and finds out about Hanna's secret phone.",
+    "season": 2,
+    "episode": 24
+  },
+  {
+    "source": "Mona",
+    "target": "Hanna",
+    "type": "FRIEND",
+    "evidence": "She tells Mona what a great friend she's been to Hanna.",
+    "season": 2,
+    "episode": 25
+  },
+  {
+    "source": "Aria",
+    "target": "Ezra",
+    "type": "DATED",
+    "evidence": "Aria and Ezra have their first official dance. They remove their masks and even kiss in public",
+    "season": 2,
+    "episode": 25
+  },
+  {
+    "source": "Toby",
+    "target": "Spencer",
+    "type": "DATED",
+    "evidence": "Toby, waiting by his truck parked out front, tells Spencer he had to pretend not to love her, and the couple makes up with a passionate kiss.",
+    "season": 2,
+    "episode": 25
+  },
+  {
+    "source": "A",
+    "target": "Dr. Sullivan",
+    "type": "BLACKMAILED",
+    "evidence": "Dr. Sullivan reveals that \"A\" blackmailed her by threatening her son, which is why she disappeared.",
+    "season": 2,
+    "episode": 25
+  },
+  {
+    "source": "Paige",
+    "target": "Emily",
+    "type": "FRIEND",
+    "evidence": "In the end, they decide to be friends.",
+    "season": 2,
+    "episode": 25
+  },
+  {
+    "source": "Mona",
+    "target": "Alison DiLaurentis",
+    "type": "ALLIED",
+    "evidence": "In exchange for keeping Ali's secret, she wants to be popular.",
+    "season": 2,
+    "episode": 25
+  }
+]

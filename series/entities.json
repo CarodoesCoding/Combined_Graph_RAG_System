@@ -1,0 +1,5772 @@
+[
+  {
+    "type": "Character",
+    "name": "Alison DiLaurentis",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A girl who mysteriously vanished and was later found dead, serving as the central figure whose disappearance impacts her former friends."
+  },
+  {
+    "type": "Character",
+    "name": "Aria Montgomery",
+    "aliases": [],
+    "description": "A high school student who returns to Rosewood after a year in Iceland and struggles with her father's secrets and a forbidden romance."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer Hastings",
+    "aliases": [],
+    "description": "An all-star student who is often at odds with her sister and feels the pressure of the secrets surrounding Alison's disappearance."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna Marin",
+    "aliases": [],
+    "description": "A former outcast who transformed into a popular girl and struggles with shoplifting and the pressures of her mother's expectations."
+  },
+  {
+    "type": "Character",
+    "name": "Emily Fields",
+    "aliases": [
+      "Em"
+    ],
+    "description": "A student who struggles with her mother's controlling nature and develops a complicated relationship with a new neighbor."
+  },
+  {
+    "type": "Character",
+    "name": "Byron Montgomery",
+    "aliases": [],
+    "description": "Aria's father who harbors a secret regarding an extramarital affair he had in the past."
+  },
+  {
+    "type": "Character",
+    "name": "Ella Montgomery",
+    "aliases": [],
+    "description": "Aria's mother who is trying to rebuild her family life after returning from Iceland."
+  },
+  {
+    "type": "Character",
+    "name": "Mike Montgomery",
+    "aliases": [],
+    "description": "Aria's brother who is a student at the local high school."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra Fitz",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A college graduate who becomes Aria's English teacher after a brief romantic encounter at a bar."
+  },
+  {
+    "type": "Character",
+    "name": "Mona Vanderwaal",
+    "aliases": [
+      "Mona"
+    ],
+    "description": "Hanna's friend who underwent a glamorous makeover and was formerly a nerdy outcast."
+  },
+  {
+    "type": "Character",
+    "name": "Pam Fields",
+    "aliases": [],
+    "description": "Emily's judgmental and controlling mother."
+  },
+  {
+    "type": "Character",
+    "name": "Maya St. Germain",
+    "aliases": [],
+    "description": "A new resident in Rosewood who becomes close with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa Hastings",
+    "aliases": [],
+    "description": "Spencer's sister who is engaged to Wren and has a strained relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Wren Kingston",
+    "aliases": [
+      "Wren"
+    ],
+    "description": "A medical student and Melissa's fiancé who engages in flirtatious behavior with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley Marin",
+    "aliases": [],
+    "description": "Hanna's mother who is concerned about her daughter's reputation and has a secret relationship with a detective."
+  },
+  {
+    "type": "Character",
+    "name": "Darren Wilden",
+    "aliases": [
+      "Detective Wilden"
+    ],
+    "description": "A detective investigating Alison's murder who also has a romantic connection with Ashley Marin."
+  },
+  {
+    "type": "Character",
+    "name": "Jessica DiLaurentis",
+    "aliases": [],
+    "description": "Alison's mother who mourns her daughter's death."
+  },
+  {
+    "type": "Character",
+    "name": "Ian Thomas",
+    "aliases": [],
+    "description": "Melissa's former boyfriend who was involved in the group's past secrets."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A student who is part of a group of friends and is deeply involved in the secret surrounding Alison's disappearance."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A student who is part of a group of friends and is struggling with her mother's relationship with a detective."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A student who is part of a group of friends and is secretly involved with her English teacher."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A student who is part of a group of friends and is questioning her sexuality while dealing with her feelings for Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Alison DiLaurentis",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose disappearance and murder are the central mystery for her former friends."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna Marshall",
+    "aliases": [
+      "Jenna"
+    ],
+    "description": "A blind girl who was permanently injured in an accident caused by Alison and the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is trying to protect her daughter from the police investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Darren Wilden",
+    "aliases": [
+      "Detective Wilden"
+    ],
+    "description": "A police detective investigating the disappearance of Alison DiLaurentis."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is married to Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is having an extramarital affair."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's new neighbor who moves into Alison's old house and develops a romantic relationship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Emily's mother who is welcoming toward Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz",
+      "Ezra Fitz"
+    ],
+    "description": "Aria's English teacher who is involved in a secret romantic relationship with her."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A friend of Hanna who spends time with her at school."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [
+      "Sean Ackard"
+    ],
+    "description": "Hanna's boyfriend who holds religious beliefs regarding their relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Ben",
+    "aliases": [
+      "Ben Coogan"
+    ],
+    "description": "Emily's boyfriend who is insecure about her relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Toby Cavanaugh",
+    "aliases": [
+      "Toby"
+    ],
+    "description": "A boy who was framed by Alison for the accident that blinded Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Wren Kingston"
+    ],
+    "description": "Melissa's fiancé who engages in a secret affair with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is engaged to Wren."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [
+      "Peter Hastings"
+    ],
+    "description": "Spencer's father."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Aria's brother."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A girl who disappeared and is the subject of a memorial, known for manipulating her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "One of the four friends who is struggling with the mystery of Alison's disappearance and her own personal relationships."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high-achieving student who is stressed by family drama and the secrets surrounding Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hefty Hanna"
+    ],
+    "description": "A girl who is currently under investigation by Detective Wilden and is struggling with her relationship with Sean."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A student who is navigating a complicated family life and a secret relationship with her teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Darren Wilden",
+    "aliases": [
+      "Detective Wilden"
+    ],
+    "description": "A detective investigating the girls and the disappearance of Alison, who has a suspicious relationship with Hanna's mother."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Mrs. Marin"
+    ],
+    "description": "Hanna's mother who is trying to protect her daughter from the police investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Aria's father who had an affair with a student named Meredith."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Aria's mother who is trying to maintain a normal family life despite her husband's past infidelity."
+  },
+  {
+    "type": "Character",
+    "name": "Meredith",
+    "aliases": [],
+    "description": "A former student of Byron's who had an affair with him and now works as a teaching assistant."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [],
+    "description": "Spencer's mother who is dealing with the fallout of Melissa's cancelled wedding."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's older sister who is bitter after her wedding was cancelled."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [],
+    "description": "Melissa's former fiancé who kissed Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "A friend of Hanna who is involved in the social scene at Rosewood High."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "Hanna's boyfriend who is currently experiencing tension in their relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [],
+    "description": "A student at Rosewood High who hosts parties."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "A girl who develops a romantic interest in Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ben",
+    "aliases": [],
+    "description": "A student who acts aggressively toward Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "A teacher who is involved in a secret romantic relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Toby's sister who was blinded in an accident involving the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Jenna's brother who was blamed for the accident that blinded her and is now back in Rosewood."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [],
+    "description": "A mysterious entity who is stalking and blackmailing the girls."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is dealing with her parents' divorce and the mysterious threats from A."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A studious high school student who is friends with Hanna, Aria, and Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is romantically involved with her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is struggling with her identity and her relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose disappearance and death continue to haunt her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "An English teacher at Rosewood High who is in a secret relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's love interest who works at a restaurant."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [
+      "Hanna's father"
+    ],
+    "description": "Hanna's father who is divorced from Ashley and is moving on with a new fiancé."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Hanna's mother"
+    ],
+    "description": "Hanna's mother who is divorced from Tom."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A student at Rosewood High who becomes Emily's lab partner."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Aria's mother"
+    ],
+    "description": "Aria's mother who is married to Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Aria's father"
+    ],
+    "description": "Aria's father who had an affair with Meredith."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Wren Kingston"
+    ],
+    "description": "A man who has a romantic history with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Kate",
+    "aliases": [
+      "Tom's fiancé's daughter"
+    ],
+    "description": "The daughter of Tom's new fiancé."
+  },
+  {
+    "type": "Character",
+    "name": "Isabel",
+    "aliases": [
+      "Tom's fiancé"
+    ],
+    "description": "Tom's new fiancé who joins him and Hanna for dinner."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student who is secretly dating her teacher, Ezra, and dealing with her parents' marital issues."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Aria's father who is struggling with his marriage to Ella after having an affair with Meredith."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Aria's mother who is deeply hurt and angry after discovering her husband Byron's affair."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high school student who is under pressure to succeed academically and navigate her complex relationship with her father, Peter."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student who is trying to win back her boyfriend Sean and investigating the mysterious figure known as A."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [],
+    "description": "Aria's younger brother who is concerned about the fighting between their parents."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "Hanna's boyfriend who is a member of an abstinence club."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "A teacher who is involved in a secret, scandalous relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A student who is often ostracized by his peers and develops a friendship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student who is navigating her feelings for Toby and dealing with the secrets exposed by A."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [],
+    "description": "Spencer's father who prioritizes academic and business success over honesty."
+  },
+  {
+    "type": "Character",
+    "name": "Alex",
+    "aliases": [],
+    "description": "A tennis club attendant who becomes a friend to Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Hanna's mother who provides advice and support regarding Hanna's relationship with Sean."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student who is friends with Spencer, Emily, and Aria, and is currently navigating social dynamics and a mystery involving 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high school student who is part of a friend group and is actively investigating the mystery surrounding 'A' and Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student who is friends with Hanna, Spencer, and Aria, and is struggling with her feelings for Maya and Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student who is dealing with her parents' marriage issues and the aftermath of her breakup with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher who previously had a romantic relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [],
+    "description": "An anonymous antagonist who sends threatening messages and pranks to the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "A student at the school who is dating Amber and is a friend of Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Amber",
+    "aliases": [],
+    "description": "A student who is friends with Sean and participates in the 'Real Love Waits' group."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Hermie"
+    ],
+    "description": "A student who is considered a nerd and is befriended by Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "A girl who has a complicated romantic tension with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Toby's blind step-sister who is involved in a secret relationship with him."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A student who is Jenna's step-brother and has a complicated history involving Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "A student who is friends with Hanna but often makes snide comments about others."
+  },
+  {
+    "type": "Character",
+    "name": "Alex",
+    "aliases": [
+      "the country club's towel boy"
+    ],
+    "description": "A worker at the Rosewood Country Club who dates Spencer for the homecoming dance."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's sister who is a former homecoming queen and holds a grudge against Spencer."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is friends with Aria, Hanna, and Emily, and is currently dating Alex."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student dealing with her parents' separation and her missing teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is friends with Spencer, Aria, and Emily, and is navigating a complicated relationship with Sean."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is friends with Spencer, Aria, and Hanna, and is struggling with her feelings for Maya and her past relationship with Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "The stepbrother of Jenna who is suspected by the girls of being involved in Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Toby's stepsister who has a complicated and allegedly inappropriate history with him."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Mrs. Fields"
+    ],
+    "description": "Emily's mother who is concerned about her daughter's dating life and safety."
+  },
+  {
+    "type": "Character",
+    "name": "Ben",
+    "aliases": [],
+    "description": "A boy who was expected to be Emily's date to the homecoming dance."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "A girl who is romantically interested in Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is currently separating from her husband, Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is separating from his wife, Ella."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Aria's brother who is involved in school fights."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher who has gone missing and is romantically involved with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "A boy who is interested in Aria but has a history with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Alex",
+    "aliases": [],
+    "description": "A worker at the Hastings' country club who is dating Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "A student who bonds with Hanna and shares a history of being bullied by Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [],
+    "description": "A deceased girl who was friends with the main group and bullied others."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's sister."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "Aria is a high school student and one of Alison's close friends who is struggling with her feelings for Ezra and navigating social pressures."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "Spencer is a studious and determined friend of Alison who is deeply involved in the investigation surrounding Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "Emily is a friend of Alison who is exploring her romantic feelings for Maya and dealing with her father's return from military service."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "Hanna is a friend of Alison who is dealing with her family's financial instability and trying to maintain her social life."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "Alison was the central figure of the friend group whose mysterious death and past actions continue to impact the lives of her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Ashley is Hanna's mother who is struggling to provide for her family as the sole breadwinner."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "Lucas is an acquaintance of Hanna who acts as an ally by helping her sell her belongings to raise money."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [],
+    "description": "Jason is Alison's older brother who has returned to Rosewood as a changed man to organize his sister's memorial."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Jenna is a girl with a complicated history with Alison and the other girls, who insists on speaking at the memorial."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "Ezra is a man with whom Aria had a romantic relationship before he disappeared."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "Sean is Hanna's boyfriend who is wary of her interactions with other boys."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "Noel is a friend of Sean who takes an interest in dating Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Maya is a girl who develops a romantic relationship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [],
+    "description": "Wayne is Emily's father who is returning home from his military unit in Afghanistan."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Toby is a person of interest in the police investigation regarding Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Officer Wilden",
+    "aliases": [
+      "Darren",
+      "Detective Wilden"
+    ],
+    "description": "Officer Wilden is a police officer desperate to solve the murder of Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Byron is an acquaintance of Ashley who shares experiences regarding marital and family struggles."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "Ian is Melissa's ex-boyfriend who reappears at the memorial."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is friends with Spencer, Aria, and Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is friends with Hanna, Aria, and Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is friends with Hanna, Spencer, and Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is friends with Hanna, Spencer, and Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Noel Kahn",
+    "aliases": [
+      "Noel"
+    ],
+    "description": "A student at Rosewood High who is interested in dating Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Alex",
+    "aliases": [
+      "Alex Santiago"
+    ],
+    "description": "Spencer's boyfriend who has a mysterious past connection to her mother, Veronica."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [
+      "Veronica Hastings"
+    ],
+    "description": "Spencer's mother who is protective of the girls and has a secret history with Alex."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl who was friends with the main group and had a complex relationship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is separated from Byron and works as a volunteer proctor."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is separated from Ella and interacts with Ashley Marin."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who interacts with Byron Montgomery."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas Gottesman"
+    ],
+    "description": "A friend of Hanna who is bullied by Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A student who bullies Lucas and has a tense relationship with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher at Rosewood High who has a complicated romantic history with Aria."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "Mona is a high school student who hosts a camping birthday party and has a volatile friendship with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "Hanna is a high school student dealing with financial struggles and a complicated social life involving her friends and Mona."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [],
+    "description": "A is an anonymous antagonist who sends threatening messages and stalks the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Ashley is Hanna's mother who is struggling with severe financial problems and resorts to theft."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Byron is Aria's father who is navigating life as a single parent after separating from his wife."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "Aria is a high school student involved in a secret romantic relationship with her teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Ella is Aria's mother who is separated from Byron and is rediscovering her artistic side."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Melissa is Spencer's sister who has a complicated romantic history with Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "Spencer is a high school student who has a strained relationship with her sister Melissa and a past romantic connection with Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "Ian is a man who has romantic ties to both Melissa and Spencer, and is revealed to be the mystery man in Alison's video."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [],
+    "description": "Alison is a deceased girl whose murder is the subject of an ongoing investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [],
+    "description": "Noel is a student who attempts to date Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "Ezra is a teacher who is secretly in a romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "Emily is a high school student who is friends with the other girls and is dealing with her father's return and her relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Maya is a friend of Emily who is involved in a romantic relationship with her."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [],
+    "description": "Wayne is Emily's father who returns home from military service."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [],
+    "description": "Pam is Emily's mother who disapproves of Emily's relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Toby is a young man who is a suspect in Alison's murder and has a troubled history with his sister Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Jenna is Toby's sister who previously forced him into a sexual relationship."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Hanna's mom"
+    ],
+    "description": "Ashley is Hanna's mother who works at a bank and is deeply concerned about her daughter's well-being following a car accident."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna"
+    ],
+    "description": "Hanna is a teenager who was hit by a car and is recovering in the hospital while dealing with the mysterious 'A' figure."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria"
+    ],
+    "description": "Aria is a high school student involved in a secret romantic relationship with her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer"
+    ],
+    "description": "Spencer is a student who is actively investigating the identity of 'A' and the circumstances surrounding Hanna's accident."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily"
+    ],
+    "description": "Emily is a student who struggles with her sexuality and her parents' reactions while dealing with the mystery of 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "Noel is a student who is suspected by Hanna and Spencer of being 'A' after he was seen writing on Ezra's car."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz",
+      "Ezra Fitz"
+    ],
+    "description": "Ezra is a teacher at the high school who is engaged in a secret affair with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona"
+    ],
+    "description": "Mona is a friend of Hanna who feels guilty about the accident and attempts to reconcile their friendship."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas"
+    ],
+    "description": "Lucas is a friend of Hanna who visits her in the hospital and harbors romantic feelings for her."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [
+      "Emily's dad"
+    ],
+    "description": "Wayne is Emily's father who attempts to be understanding regarding his daughter's sexuality."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Emily's mother"
+    ],
+    "description": "Pam is Emily's mother who struggles to accept her daughter's sexuality and reacts with judgment."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian"
+    ],
+    "description": "Ian is Spencer's sister's partner who recently eloped with Melissa."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Spencer's sister"
+    ],
+    "description": "Melissa is Spencer's sister who has eloped with Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby"
+    ],
+    "description": "Toby is a young man who is a person of interest in the investigation and has a complicated relationship with Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna"
+    ],
+    "description": "Jenna is a girl who has a possessive and complicated relationship with Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Alison"
+    ],
+    "description": "Alison is a mysterious figure from the past who appears to Hanna in a hallucination or visit."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [
+      "Sean"
+    ],
+    "description": "Sean is a boy who is dating Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Ben",
+    "aliases": [
+      "Ben"
+    ],
+    "description": "Ben is Emily's ex-boyfriend."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A teenager recovering from a leg injury who is being targeted by the mysterious entity known as A."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [],
+    "description": "A mysterious, anonymous entity who blackmails and manipulates the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Hanna's mom"
+    ],
+    "description": "Hanna's mother who is struggling with financial issues and secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student navigating her relationship with Maya and her parents' disapproval."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Emily's girlfriend who attempts to build a relationship with Emily's parents."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Emily's mom"
+    ],
+    "description": "Emily's mother who struggles to accept her daughter's sexual orientation."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high school student who is dating Alex and investigating the mysteries surrounding her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Alex",
+    "aliases": [
+      "Spencer's beau"
+    ],
+    "description": "Spencer's boyfriend who is a tennis player."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Spencer's sister"
+    ],
+    "description": "Spencer's sister who recently eloped."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A young man recently released from jail who is the step-brother of Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Toby's step-sister who maintains a controlling and manipulative relationship with him."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student involved in a secret relationship with her teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher at the high school who is in a secret relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "A student who is suspected by the girls of being A and who blackmails Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "A friend of Hanna who throws a surprise party for her."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "A classmate of Hanna who harbors resentment toward her and others."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "Hanna's boyfriend who attends the homecoming party."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is suspicious of her brother-in-law Ian and investigates the circumstances surrounding Alison's disappearance."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is recently married to Ian and is attempting to get pregnant."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Melissa's husband who is suspected by Spencer of having a connection to Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [
+      "-A"
+    ],
+    "description": "A mysterious, anonymous figure who sends threatening messages and manipulates the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is in a secret relationship with her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Aria's younger brother who struggles with his parents' separation."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria and Mike's father."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is dating Maya and is friends with the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A student at Rosewood High who is ostracized by his peers and accused of being a murderer."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is being blackmailed by A and struggles with her mother's financial issues."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is dealing with financial debt."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "A student who attempts to blackmail Mr. Fitz and is suspected by the girls of being A."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's girlfriend who is sent away to a juvenile camp."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Emily's mother who disapproves of her daughter's relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz",
+      "Ezra Fitz"
+    ],
+    "description": "A teacher at Rosewood High who is in a romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose disappearance and death are the central mystery of the group."
+  }
+,
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [],
+    "description": "A mysterious individual who sends threatening text messages and manipulates the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [],
+    "description": "A deceased girl whose final moments are the subject of a mysterious video."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "An athletic coach who is suspected of involvement in Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "One of the girls who is concerned about Toby and Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A person who is currently under legal scrutiny and wearing an anklet monitor."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A student who is dating her English teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A student who is investigating Ian and trying to find her missing laptop."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A student who is dealing with financial issues and being blackmailed by A."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [],
+    "description": "Hanna's boyfriend who becomes frustrated with her behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Aria's mother who is a teacher."
+  },
+  {
+    "type": "Character",
+    "name": "Simone",
+    "aliases": [],
+    "description": "Aria's former babysitter and a published author."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "Aria's English teacher who is secretly dating her."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Emily's girlfriend who is currently at a rehab center."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "A new student with technical skills who helps Emily and interacts with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "A student who is being used by Hanna due to A's blackmail."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Aria's father who is estranged from his wife."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is secretly dating her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is investigating the mystery surrounding Alison's disappearance."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student dealing with her mother's financial troubles and pressure from 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student and competitive swimmer who faces bullying from Paige."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A girl who disappeared, whose past actions continue to haunt her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Alison's brother who has returned to Rosewood and is suspected of being involved in the mystery."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is struggling with financial and legal issues."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz",
+      "Mr. Fitz"
+    ],
+    "description": "A teacher at Rosewood High who is in a secret relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "A competitive swimmer who is jealous of Emily's success and bullies her."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is currently separated from her husband, Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is currently separated from his wife, Ella."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "A student who interacts with Hanna and helps her with her problems."
+  },
+  {
+    "type": "Character",
+    "name": "Coach Fulton",
+    "aliases": [
+      "Coach"
+    ],
+    "description": "The swim coach at Rosewood High who enforces discipline."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Cavanaugh"
+    ],
+    "description": "A young man who is under house arrest and is being tutored by Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is dealing with her parents' marital issues and her own secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Mr. Montgomery"
+    ],
+    "description": "Aria's father who is navigating a complex relationship with his wife, Ella."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Mrs. Montgomery"
+    ],
+    "description": "Aria's mother who is working on her marriage with Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is investigating mysteries and tutoring Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school swimmer who is friends with Spencer and Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is friends with Aria, Spencer, and Emily, and is helping Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "A student who is living in the school and later stays in Hanna's basement."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "A competitive swimmer at Rosewood High who develops a friendship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Melissa's partner who is involved in a tense relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is in a relationship with Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Toby's relative who lives in the same house as him."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "Hanna is a high school student who is currently hiding Caleb in her basement and dealing with her mother's financial troubles."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "Aria is a student who is secretly dating her teacher, Ezra Fitz, and is part of a group of friends known as the Pretty Little Liars."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "Spencer is a studious member of the Pretty Little Liars who is investigating the mystery surrounding Toby and Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "Emily is a swimmer and member of the Pretty Little Liars who struggles with her mother's acceptance of her sexuality."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Melissa is Spencer's sister whose sudden changes in life plans have caused concern among the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Toby is a young man who was under house arrest for the murder of Alison DiLaurentis but is later cleared of charges."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Ashley is Hanna's mother who works at a bank and is involved in a secret regarding Mrs. Potter's safe deposit box."
+  },
+  {
+    "type": "Character",
+    "name": "Mrs. Potter",
+    "aliases": [
+      "Mrs. Esther Potter",
+      "Mrs. Esther Marie Potter"
+    ],
+    "description": "Mrs. Potter is a deceased woman whose bank account and safe deposit box are the subject of an investigation by an impostor."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Caleb is a boy who is currently crashing in Hanna's basement and helping her investigate the man posing as Mrs. Potter's nephew."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Ella is Aria's mother who is currently separated from her husband Byron and is interested in attending a book signing with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "Ezra is an English teacher at Rosewood High who is secretly dating his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Nick McCullers",
+    "aliases": [
+      "Mr. McCullers"
+    ],
+    "description": "Nick is Paige's father who is hostile toward Emily and her position on the swim team."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "Paige is a student who is a rival of Emily on the swim team and shares a complicated romantic moment with her."
+  },
+  {
+    "type": "Character",
+    "name": "Mr. Leland",
+    "aliases": [
+      "James Leland"
+    ],
+    "description": "Mr. Leland is an impostor posing as Mrs. Potter's great-nephew to gain access to her safe deposit box."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Byron is Aria's father who is struggling with his jealousy regarding his wife Ella's interactions with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Jenna is Toby's stepsister who is involved in the mysterious events surrounding the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Mrs. Fields"
+    ],
+    "description": "Pam is Emily's mother who eventually stands up for her daughter against Nick McCullers."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "Aria is a high school student who is involved in a secret relationship with her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "Hanna is a high school student who is secretly housing a foster kid named Caleb in her basement."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "Spencer is a high school student who is suspicious of Ian and is investigating his potential involvement in Alison's murder."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "Emily is a high school student who is friends with the other girls and is attempting to build a friendship with Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "Ezra is a teacher at Rosewood High who is in a secret relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "Mona is a student at Rosewood High who participates in the school play and is inquisitive about Hanna's life."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Jenna is a student who is involved in the school play and has a mysterious connection to Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Ian is a man who is suspected by the girls of being involved in the murder of Alison DiLaurentis."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Ashley is Hanna's mother who is suspicious of the lack of food in their house and distrusts Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "Caleb is a foster kid who is secretly living in Hanna's basement."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Byron is Aria's father who attempts to mentor Ezra regarding his career."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Toby is a young man who has been ostracized by the town and is forming a friendship with Spencer and Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Alison DiLaurentis",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "Alison is a deceased girl whose murder remains a central mystery for the main characters."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer Hastings",
+    "aliases": [
+      "Spencer"
+    ],
+    "description": "A high school student who is a person of interest in the murder of Alison DiLaurentis and is currently dealing with family tension and a budding relationship with Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Ian Thomas",
+    "aliases": [
+      "Ian"
+    ],
+    "description": "A man suspected of being involved in Alison's death who previously had a romantic history with Spencer and is married to Melissa."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa Hastings",
+    "aliases": [
+      "Melissa"
+    ],
+    "description": "Spencer's older sister who is married to Ian and is protective of her relationship with him."
+  },
+  {
+    "type": "Character",
+    "name": "Toby Cavanaugh",
+    "aliases": [
+      "Toby"
+    ],
+    "description": "A young man who is suspicious of Jenna and forms an alliance with Spencer to investigate her."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna Marshall",
+    "aliases": [
+      "Jenna"
+    ],
+    "description": "A blind girl who is involved in a mysterious situation at a local motel and has a complicated history with Toby and the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna Marin",
+    "aliases": [
+      "Hanna"
+    ],
+    "description": "A high school student who is secretly housing Caleb in her home against her mother's wishes."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb Rivers",
+    "aliases": [
+      "Caleb"
+    ],
+    "description": "A boy who is romantically involved with Hanna and has been living in her home secretly."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley Marin",
+    "aliases": [
+      "Ashley"
+    ],
+    "description": "Hanna's mother who discovers Caleb living in their house and eventually allows him to stay for dinner."
+  },
+  {
+    "type": "Character",
+    "name": "Emily Fields",
+    "aliases": [
+      "Emily"
+    ],
+    "description": "A high school student who is navigating a complicated romantic situation with Paige."
+  },
+  {
+    "type": "Character",
+    "name": "Paige McCullers",
+    "aliases": [
+      "Paige"
+    ],
+    "description": "A student who has romantic feelings for Emily but struggles with being open about their relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Aria Montgomery",
+    "aliases": [
+      "Aria"
+    ],
+    "description": "A high school student who is in a secret relationship with her teacher, Mr. Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra Fitz",
+    "aliases": [
+      "Mr. Fitz",
+      "Ezra"
+    ],
+    "description": "A teacher who is in a secret relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett Reynolds",
+    "aliases": [
+      "Garrett"
+    ],
+    "description": "A police officer who grew up in the neighborhood and is investigating the case involving Alison's death."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A student who is under investigation by the police and is dealing with family tension and past secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "A man with a past relationship with Spencer who offers to help her run away from the police investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A student who is hiding a secret relationship with her teacher, Ezra, and dealing with her parents' marital issues."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is reconciling with her husband and trying to navigate her daughter's secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is reconciling with his wife and is concerned about his daughter's behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Aria's brother who is frustrated by his parents' constant arguing."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A student who is dating Caleb and becomes devastated when she discovers his secret connection to Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "A boy living with the Marins who is secretly communicating with Jenna regarding Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is adjusting to having Caleb in the house and supporting her daughter."
+  },
+  {
+    "type": "Character",
+    "name": "Sean",
+    "aliases": [
+      "Sean Ackard"
+    ],
+    "description": "A student who is dating Paige and trying to move on from his past relationship with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "A student who dates Sean but harbors romantic feelings for Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A student who is friends with the other girls and is the object of Paige's romantic interest."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is in a secret romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A young man who forms an unlikely friendship with Spencer while both are under police suspicion."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A girl who has a mysterious connection with Caleb and is confronted by Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who has a history of conflict with her."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [
+      "Veronica Hastings"
+    ],
+    "description": "Spencer's mother who supports her daughter during the police investigation."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [
+      "-A"
+    ],
+    "description": "A mysterious antagonist who harasses the girls and leaves threatening gifts."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is a person of interest in a police investigation and is dating Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "A young man who had a romantic relationship with Hanna and was involved in searching for information for Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student and friend of Spencer, Aria, and Emily who is struggling with her feelings for Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett Reynolds",
+    "aliases": [
+      "Officer Garrett Reynolds"
+    ],
+    "description": "A police officer who is monitoring the girls and investigating Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is married to Ian and is critical of Spencer's behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A young man who is dating Spencer and is often targeted by others in town."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is concerned about her daughter's well-being and her relationship with Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A friend of Hanna who interferes in her relationship with Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is secretly dating her teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is unaware of her daughter's relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is exploring her sexuality and dealing with the aftermath of her relationship with Paige."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "A student who has a budding, complicated relationship with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is secretly dating his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A girl who has a history with Toby and is interested in finding information related to Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie Molina",
+    "aliases": [
+      "Jackie"
+    ],
+    "description": "Ezra's former fiancée."
+  },
+  {
+    "type": "Character",
+    "name": "Samara",
+    "aliases": [
+      "Samara Cook"
+    ],
+    "description": "A member of a Pride group who connects with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Melissa's husband who has a tense, adversarial relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose past actions and secrets continue to impact the lives of the main characters."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is part of a group of friends investigating the disappearance of Alison and the threats from A."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A student who has a complicated history with Alison and the other girls, and was previously blackmailed by Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Melissa's husband who is involved in incriminating activities and attempts to harm Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student and member of the group of friends who is dating Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is navigating her relationship with Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is a faculty member at Hollis College."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student and member of the group of friends who is struggling with her feelings for Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who tries to support her daughter."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "A young man who has a romantic connection with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is pregnant and married to Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student and member of the group of friends who is dealing with her family's move to Texas."
+  },
+  {
+    "type": "Character",
+    "name": "Samara",
+    "aliases": [],
+    "description": "A person Emily is messaging on her laptop."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Emily's mother who informs her about the family's move."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [
+      "Wayne Fields"
+    ],
+    "description": "Emily's father who has been reassigned to work in Texas."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is dating Aria and resigning from Rosewood High."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A police officer who is involved with Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A student who interacts with Hanna and the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas Gottesman"
+    ],
+    "description": "A student who has a strained relationship with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose past actions continue to affect the lives of the other characters."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A young man who has a romantic relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie",
+    "aliases": [
+      "Jackie Molina"
+    ],
+    "description": "A colleague of Ezra's at Hollis College."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [
+      "Veronica Hastings"
+    ],
+    "description": "Spencer's mother."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spence"
+    ],
+    "description": "A high school student who is deeply involved in the mystery surrounding Ian and Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "A missing person who is suspected of being involved in Alison's death and is the husband of Melissa."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett Reynolds",
+    "aliases": [
+      "Officer Garrett"
+    ],
+    "description": "A police officer who is involved in the investigation and has suspicious interactions with the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A girl who is often seen with Officer Garrett and appears to be monitoring the situation."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A young man who has a complicated relationship with Spencer and is friends with Emily."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student who is dealing with family issues and a complicated relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher who has a romantic relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student who is struggling with her feelings for Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "A young man who is in love with Hanna and trying to reconcile with her."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "A student who is friends with Hanna and is currently dating Noel."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [],
+    "description": "A student who recently returned from suspension and is dating Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's sister who is married to Ian and is expecting a child."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student who is dealing with her family's upcoming move to Texas."
+  },
+  {
+    "type": "Character",
+    "name": "Dr. Sullivan",
+    "aliases": [
+      "Anne"
+    ],
+    "description": "A therapist who is treating the girls."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is part of the Pretty Little Liars group and is currently dealing with family drama and the mystery surrounding Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student and member of the Pretty Little Liars who is navigating a complicated romantic relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student and member of the Pretty Little Liars who is dealing with her parents' return and social isolation from her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student and swimmer who is trying to secure a college scholarship while dealing with her mother's strict rules."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's older sister who is pregnant and involved in the mystery surrounding Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Alison's brother who has returned to Rosewood and is acting suspiciously regarding his property and the Ian incident."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A former teacher at Rosewood High who is in a romantic relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A student at Rosewood High who attempts to reconcile her friendship with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A young man who is dating Spencer and working in construction."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Emily's mother who is strict about Emily's phone usage and plans to move the family."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is dealing with the return of her ex-husband."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [
+      "Tom Marin"
+    ],
+    "description": "Hanna's father who has returned to Rosewood and is attempting to re-enter Hanna's life."
+  },
+  {
+    "type": "Character",
+    "name": "Samara",
+    "aliases": [
+      "Samara Cook"
+    ],
+    "description": "A girl who is interested in dating Emily."
+  },
+  {
+    "type": "Group",
+    "name": "Pretty Little Liars",
+    "aliases": [
+      "The girls",
+      "The Liars"
+    ],
+    "description": "A group of friends consisting of Spencer, Aria, Hanna, and Emily who are investigating the mystery of Ian and Alison."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A member of the Liars who is suspicious of Jason and protective of Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is pregnant and married to Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "Melissa's husband who is suspected of hiding in Jason's house."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A member of the Liars who is dealing with her parents' relationship and helping Lucas."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "A girl who shoplifts with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A carpenter who is dating Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [],
+    "description": "A resident of Rosewood who Spencer suspects is hiding Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "A student who is friends with Hanna and has a crush on Danielle."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "A boy staying at Lucas's parents' house."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A member of the Liars who is dating Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "A teacher at the college who is dating Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie",
+    "aliases": [],
+    "description": "An acquaintance who observes Aria and Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A student in Aria's pottery class who has a rivalry with her."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A member of the Liars who is struggling with her mother's potential move."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [],
+    "description": "A girl who previously sought refuge at Spencer's house."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Hanna's mother who is trying to reconcile with Tom."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [],
+    "description": "Hanna's father who is engaged to Isabel."
+  },
+  {
+    "type": "Character",
+    "name": "Isabel",
+    "aliases": [],
+    "description": "Tom's fiancée."
+  },
+  {
+    "type": "Character",
+    "name": "Danielle",
+    "aliases": [],
+    "description": "A girl who goes on a date with Lucas."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [],
+    "description": "An acquaintance of Melissa who delivers a package to her."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "Spencer is a high school student who is actively investigating the disappearance and potential death of Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Melissa is Spencer's sister who is married to Ian and is searching for his passport and her ring."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "Aria is a high school student dealing with her mother becoming her English teacher and her brother's suspicious behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "Hanna is a high school student who is struggling with therapy and her complicated relationship with Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "Emily is a high school student who is dating Samara and dealing with pressure from her mother regarding college."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Wren Kingston"
+    ],
+    "description": "Wren is a doctor who has a history with Melissa and assists Spencer in finding Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Ella is Aria's mother and a teacher at Aria's high school."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "Ian is Melissa's husband who is suspected of killing Alison and is found dead in a barn."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Caleb is a student who is dating or involved with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas Gottesman"
+    ],
+    "description": "Lucas is a student who goes on a date with Danielle."
+  },
+  {
+    "type": "Character",
+    "name": "Danielle",
+    "aliases": [],
+    "description": "Danielle is a student who goes on a date with Lucas."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Mike is Aria's brother who is acting suspiciously and lying to his parents."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Jason is an acquaintance of Aria who provides information about Mike."
+  },
+  {
+    "type": "Character",
+    "name": "Samara",
+    "aliases": [],
+    "description": "Samara is Emily's girlfriend."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Pam is Emily's mother who is very involved in Emily's college prospects."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "Alison is a deceased girl who continues to influence the lives of the main characters."
+  },
+  {
+    "type": "Character",
+    "name": "Dr. Sullivan",
+    "aliases": [],
+    "description": "Dr. Sullivan is a therapist who treats Hanna."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily"
+    ],
+    "description": "A member of the Liars who is suspicious of Ian's death and investigates the truth."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian"
+    ],
+    "description": "A man whose death is under investigation and who was involved with Melissa."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa"
+    ],
+    "description": "Spencer's sister who was married to Ian and is grieving his death."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer"
+    ],
+    "description": "A member of the Liars and sister to Melissa who tries to support her family."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett Reynolds",
+    "aliases": [
+      "Garrett"
+    ],
+    "description": "A police officer who provides information about Ian's autopsy."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [
+      "Veronica"
+    ],
+    "description": "Spencer and Melissa's mother who manages the family affairs."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb"
+    ],
+    "description": "Hanna's boyfriend who deals with a difficult foster mother."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna"
+    ],
+    "description": "A member of the Liars who is dating Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley"
+    ],
+    "description": "Hanna's mother who is stressed about her daughter's safety."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria"
+    ],
+    "description": "A member of the Liars who is in a relationship with Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra",
+      "Mr. Fitz"
+    ],
+    "description": "A teacher who is in a secret relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie",
+    "aliases": [
+      "Jackie"
+    ],
+    "description": "An acquaintance of Ezra who attempts to interfere with his relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Logan Reed",
+    "aliases": [
+      "Logan"
+    ],
+    "description": "A delivery worker who was hired to drop off a bribe for Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason"
+    ],
+    "description": "A man who had a complicated relationship with Alison and is attracted to Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike"
+    ],
+    "description": "Aria's brother who has been breaking into homes."
+  },
+  {
+    "type": "Character",
+    "name": "Janet",
+    "aliases": [
+      "Janet"
+    ],
+    "description": "Caleb's foster mother who treats him poorly."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna"
+    ],
+    "description": "An associate of Garrett who is suspected of hiring Logan."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella"
+    ],
+    "description": "Aria's mother."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron"
+    ],
+    "description": "Aria's father."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "Aria is a high school student and one of the Liars who is navigating complex relationships with her friends and Jason DiLaurentis."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "Emily is a high school student and one of the Liars who is dealing with her long-distance relationship with her father and her budding romance with Samara."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "Hanna is a high school student and one of the Liars who struggles with her parents' complicated relationship and her own feelings for Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "Spencer is a high school student and one of the Liars who is deeply involved in school committees and investigating the secrets of her family and the DiLaurentis family."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Jason is Alison's brother who has returned to Rosewood, causing tension and curiosity among the Liars."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "Ezra is a teacher who has a romantic history with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Mike is Aria's brother."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [
+      "Tom Marin"
+    ],
+    "description": "Tom is Hanna's father who has a strained relationship with his daughter and lingering feelings for his ex-wife, Ashley."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Ashley is Hanna's mother who shares a complicated past with her ex-husband, Tom."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Toby is Spencer's boyfriend who supports her during stressful events."
+  },
+  {
+    "type": "Character",
+    "name": "Jessica",
+    "aliases": [
+      "Jessica DiLaurentis"
+    ],
+    "description": "Jessica is Alison and Jason's mother who organizes a fashion show tribute for her late daughter."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Pam is Emily's mother who is struggling with the distance from her husband, Wayne."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [
+      "Wayne Fields"
+    ],
+    "description": "Wayne is Emily's father who lives in Texas for work."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [
+      "Peter Hastings"
+    ],
+    "description": "Peter is Spencer's father who is secretive about his interactions with the DiLaurentis family."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "Mona is a student who takes over the fashion show committee chair position from Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "Noel is a student hired by Mona to be the DJ for the fashion show."
+  },
+  {
+    "type": "Character",
+    "name": "Samara",
+    "aliases": [
+      "Samara Cook"
+    ],
+    "description": "Samara is a girl Emily is interested in dating."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Ella is Aria's mother who provides advice on memory and trauma."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Caleb is a boy who has a romantic interest in Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Quinn",
+    "aliases": [
+      "Quinn"
+    ],
+    "description": "Quinn is a friend of Samara who meets Emily at the fashion show."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "Emily is a member of the Pretty Little Liars who moves into the Marin household and is struggling with swim team injuries."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "Hanna is a member of the Pretty Little Liars who lives with her mother and is currently dating Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Ashley is Hanna's mother who is concerned about the recent events surrounding the girls."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [
+      "-A"
+    ],
+    "description": "A is a mysterious antagonist who stalks and manipulates the Pretty Little Liars."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "Aria is a member of the Pretty Little Liars who is dating Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Ella is Aria's mother who has recently returned home to the Montgomery household."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Byron is Aria's father who is trying to maintain a stable family environment."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "Ezra is a teacher at Hollis who is dating Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "Spencer is a member of the Pretty Little Liars who is investigating the circumstances surrounding Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [
+      "Peter Hastings"
+    ],
+    "description": "Peter is Spencer's father who is involved in local construction projects."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Toby is a local worker who is dating Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Mike is Aria's brother who is acting out and getting into trouble with the law."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Caleb is a tech-savvy individual who is dating Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Jason is Alison's brother who has returned to Rosewood."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "Garrett is a police officer who is involved in the investigation of Alison's murder."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [
+      "Tom Marin"
+    ],
+    "description": "Tom is Hanna's father who is seen reconciling with Ashley."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student and friend to the other girls who is dating Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is dating Caleb Rivers and dealing with her parents' complicated relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is investigating the murder of Alison DiLaurentis."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school swimmer who is hospitalized due to stress and health issues."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A police officer who is romantically involved with Jenna Marshall."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A resident of Rosewood who is romantically involved with Garrett Reynolds."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "A resident of Rosewood who is the step-brother of Jenna Marshall."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [
+      "Tom Marin"
+    ],
+    "description": "Hanna's father who is engaged to Isabel."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother and the ex-wife of Tom Marin."
+  },
+  {
+    "type": "Character",
+    "name": "Isabel",
+    "aliases": [],
+    "description": "Tom Marin's fiancée."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "The deceased friend of the main group whose murder is being investigated."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Dr. Wren Kingston"
+    ],
+    "description": "A doctor at Rosewood Community Hospital who has a history with Melissa Hastings."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who has a romantic history with Wren."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who is being followed by a mysterious stalker."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Aria's brother who is struggling with behavioral issues."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria and Mike's mother."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher at Hollis College who is dating Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "A resident of Rosewood who is a person of interest in Alison's murder."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [
+      "Wayne Fields"
+    ],
+    "description": "Emily's father."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Emily's mother."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is dating her teacher, Ezra, and is suspicious of Jason."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is in a romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "A resident of Rosewood who is suspected by Spencer of stalking Aria and keeping secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is being blackmailed by 'A' and is dating Samara."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is dating Caleb and dealing with family issues."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who investigates Jason and deals with her family's secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A visually impaired resident of Rosewood who is a candidate for a cornea transplant."
+  },
+  {
+    "type": "Character",
+    "name": "Samara",
+    "aliases": [
+      "Samara Cook"
+    ],
+    "description": "Emily's girlfriend who becomes upset when Emily gives her phone number to Zoey."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is supportive of Emily's relationship with Samara."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who decides to visit his biological mother in California."
+  },
+  {
+    "type": "Character",
+    "name": "Zoey",
+    "aliases": [],
+    "description": "A friend of Samara who receives Emily's phone number."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [
+      "Mrs. Hastings"
+    ],
+    "description": "Spencer's mother who advises her not to trust the DiLaurentis family."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria and Mike's mother who is concerned about her son's behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria and Mike's father who is frustrated with his son's lack of focus."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Aria's brother who is struggling with depression and school."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "An associate of Jenna who watches Jason and Aria."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student who is struggling with anxiety and being targeted by a mysterious entity known as 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student involved in a secret relationship with her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [],
+    "description": "Alison's brother who possesses a box of her belongings and is suspected by Aria's friends of being dangerous."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high school student who is investigating the N.A.T. club and the secrets surrounding Ian's death."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Spencer's ally who helps her investigate Ian's belongings and the N.A.T. club."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Hanna's mother who tries to support her daughter and manage family dynamics."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student dealing with family issues and a difficult relationship with her future stepsister, Kate."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [],
+    "description": "Hanna's father who is getting remarried."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A character who has a secret relationship with Garrett and is wary of Spencer's investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Aria's mother who is concerned about her son Mike and suspicious of Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Dr. Sullivan",
+    "aliases": [],
+    "description": "A therapist who provides counseling to students and is involved in the lives of the main characters."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher at Hollis who is in a secret relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie",
+    "aliases": [],
+    "description": "Ezra's ex-girlfriend who attempts to interfere with his relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "Hanna's friend who accompanies her to social events and tries to help her navigate relationships."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "A deceased individual whose belongings are being investigated by Spencer and Toby."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [],
+    "description": "A police officer who is secretly allied with Jenna and Jason regarding their shared secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Kate",
+    "aliases": [],
+    "description": "Hanna's future stepsister who acts in a hostile and manipulative manner toward Hanna."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Em"
+    ],
+    "description": "Emily is a high school student who is being tormented by an anonymous entity known as A."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "Hanna is a high school student and friend of Emily who is dealing with family drama involving her father's remarriage."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "Spencer is a high school student and friend of Emily who is investigating the identity of A."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "Aria is a high school student and friend of Emily who is navigating family issues and the threats from A."
+  },
+  {
+    "type": "Character",
+    "name": "Dr. Sullivan",
+    "aliases": [],
+    "description": "Dr. Sullivan is a therapist who treats the girls and attempts to uncover the identity of A."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Toby is Spencer's boyfriend who works on the Hastings' property."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Jenna is a girl who has a complicated history with the Liars and is Garrett's stepsister."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "Garrett is a police officer and Jenna's stepbrother."
+  },
+  {
+    "type": "Character",
+    "name": "Kate",
+    "aliases": [],
+    "description": "Kate is Hanna's mean stepsister who attempts to sabotage Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Ella is Aria's mother who is struggling with her son Mike's depression."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Byron is Aria's father who is dealing with family conflicts regarding his son Mike."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "Caleb is Hanna's boyfriend who is currently in California."
+  },
+  {
+    "type": "Character",
+    "name": "Regina",
+    "aliases": [
+      "Hanna's grandma"
+    ],
+    "description": "Regina is Hanna's grandmother who supports her granddaughter during family conflicts."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Ashley is Hanna's mother who is dealing with her ex-husband's remarriage."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [],
+    "description": "Tom is Hanna's father who is marrying Isabel."
+  },
+  {
+    "type": "Character",
+    "name": "Isabel",
+    "aliases": [],
+    "description": "Isabel is Tom's new wife and Kate's mother."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [],
+    "description": "Mike is Aria's brother who is suffering from depression."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Maya is Emily's girlfriend who recently returned from rehab."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [],
+    "description": "Peter is Spencer's father who is hiding secrets about the DiLaurentis family."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is one of the Liars and is currently under investigation for homicide."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student and one of the Liars who is dealing with her father's remarriage and the investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student and one of the Liars who is in a relationship with Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student and one of the Liars who is navigating a complex relationship with Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Officer Garrett"
+    ],
+    "description": "A police officer who is actively working to convict the Liars of murder."
+  },
+  {
+    "type": "Character",
+    "name": "Wilden",
+    "aliases": [
+      "Detective Wilden"
+    ],
+    "description": "A detective who is leading the investigation against the Liars."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's girlfriend who recently returned from True North."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Spencer's boyfriend who is concerned about his safety and his relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Alison's brother who is linked to the police investigation and has a complicated history with the Liars."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who supports her during the stressful investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is in a secret relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie",
+    "aliases": [
+      "Jackie Molina"
+    ],
+    "description": "Ezra's former partner who attempts to win him back and is later accused of plagiarism."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [
+      "Tom Marin"
+    ],
+    "description": "Hanna's father who is preparing to marry Isabel."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Wren Kingston"
+    ],
+    "description": "A man who shows romantic interest in Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "An associate of Garrett who is involved in the cover-up regarding Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "The deceased girl whose death is the center of the investigation, though Emily believes she is alive."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "Alison is a manipulative and bossy teenager who enjoys orchestrating drama, telling scary stories, and controlling her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "Hanna is a teenager who is friends with Alison and the other Liars, often feeling pressured by Alison's bossy behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "Emily is a teenager and one of the Liars who struggles with her secret sexual orientation and her relationship with Ben."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "Spencer is an ambitious and competitive student running for class president who is friends with the other Liars."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "Aria is a teenager and one of the Liars who is dealing with her father's infidelity."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [],
+    "description": "Noel is a popular student who hosts parties and interacts with the Liars, particularly Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "Toby is a teenager who recently moved to Rosewood and is dealing with his father's remarriage."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "Jenna is a new girl in Rosewood who becomes a rival to Alison and forms a friendship with Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [],
+    "description": "Ian is Melissa's boyfriend who is flirtatious with Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Melissa is Spencer's sister and Ian's girlfriend who is protective of her relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Byron is Aria's father who is involved in an extramarital affair with Meredith."
+  },
+  {
+    "type": "Character",
+    "name": "Meredith",
+    "aliases": [],
+    "description": "Meredith is a student of Byron's who is having an affair with him."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Ashley is Hanna's mother who is struggling with her husband leaving and financial stress."
+  },
+  {
+    "type": "Character",
+    "name": "Ben",
+    "aliases": [],
+    "description": "Ben is Emily's boyfriend who spreads rumors about their relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "Mona is a student who seeks popularity and eventually forms a friendship with Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [],
+    "description": "Jason is Alison's brother who has a tense relationship with her."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "Lucas is a student who is frequently bullied by Alison."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student and member of the swim team who is involved in a plan to trap A."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high school student who is part of the group trying to expose A and is currently dealing with family drama."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student who is in a relationship with Ezra and is part of the group trying to trap A."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student who is part of the group trying to trap A and is dealing with her father's return."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher who is in a relationship with Aria and faces conflict with her parents."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [],
+    "description": "Aria's brother who is struggling with his family's perception of him."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Aria's father who is shocked and angered by her relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Mrs. Montgomery"
+    ],
+    "description": "Aria's mother who is shocked by her daughter's relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Hanna's mother who tries to manage family tensions."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [],
+    "description": "Hanna's father who is moving back to Rosewood."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [],
+    "description": "A young man who has a complicated relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [],
+    "description": "A man involved in a secret relationship with Jenna and connected to other suspicious characters."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A woman involved in a secret relationship with Garrett."
+  },
+  {
+    "type": "Character",
+    "name": "Jackie",
+    "aliases": [],
+    "description": "A woman who blackmails Aria regarding her relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "Hanna's boyfriend who returns to Rosewood."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [],
+    "description": "A friend of Hanna who helps her with photos and supports Caleb."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "Aria is a high school student dealing with the consequences of her secret relationship with her teacher, Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "Emily is a student who volunteers at a crisis hotline and is actively investigating the identity of 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "Hanna is a student who is dating Caleb and is currently planning a surprise party for him."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "Spencer is a student who is investigating 'A' and is concerned about the safety of her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Caleb is a tech-savvy individual who helps the girls recover information from a mystery phone."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Byron is Aria's father who strongly disapproves of her relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Ella is Aria's mother who is trying to manage the family conflict regarding Aria's relationship."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "Ezra is a teacher involved in a romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [
+      "Mike Montgomery"
+    ],
+    "description": "Mike is Aria's brother who physically confronted Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Toby is a young man who has a complicated romantic connection with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas Gottesman"
+    ],
+    "description": "Lucas is an acquaintance of the girls who becomes a suspect in the investigation regarding 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "Garrett is a man involved in a secretive plan with Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Jenna is a woman involved in a secretive plan with Garrett."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Jason is a man whom Spencer suspects of being involved with Garrett and Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "Mona is a friend of Hanna who attends the surprise party."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "Noel is an acquaintance of Hanna and Mona who attends the party."
+  },
+  {
+    "type": "Character",
+    "name": "Holden",
+    "aliases": [
+      "Holden Strauss"
+    ],
+    "description": "Holden is an old acquaintance of Aria whom her parents encourage her to date."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student dealing with threats from 'A' and relationship issues with Caleb and Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who investigates mysteries involving 'A' and Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is secretly dating Ezra and goes on a date with Holden."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student dating Maya who is concerned about mysterious texts."
+  },
+  {
+    "type": "Character",
+    "name": "Lucas",
+    "aliases": [
+      "Lucas Gottesman"
+    ],
+    "description": "A friend of Hanna who went missing and had financial troubles involving Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Mrs. Marin"
+    ],
+    "description": "Hanna's mother who is concerned about Lucas and her daughter's well-being."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who is determined to find Lucas and protect Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Holden",
+    "aliases": [
+      "Holden Strauss"
+    ],
+    "description": "A friend of Aria who goes on a date with her and shares secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Mr. Fitz"
+    ],
+    "description": "A teacher who is secretly dating Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A friend of Hanna who is dealing with a breakup from Noel."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "Mona's boyfriend who breaks up with her."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's girlfriend who is hiding secrets from her time at sober camp."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A blind girl who has a history with the girls and Garrett."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A man who visited Jenna at a rehabilitation center."
+  },
+  {
+    "type": "Character",
+    "name": "A",
+    "aliases": [
+      "-A"
+    ],
+    "description": "A mysterious antagonist who sends threatening texts to the girls."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is part of a group of friends investigating the mystery surrounding Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "A tech-savvy individual who helps the girls recover data from a mysterious cell phone."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student and friend of Hanna, Spencer, and Aria who is involved in the investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose past actions and secrets drive the central mystery of the group."
+  },
+  {
+    "type": "Character",
+    "name": "Ian",
+    "aliases": [
+      "Ian Thomas"
+    ],
+    "description": "A man involved in the N.A.T. Club who is seen in videos searching for incriminating footage."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A man associated with the N.A.T. Club who searches for videos in Alison's bedroom."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Toby's stepsister who is often seen monitoring the girls and is involved in the N.A.T. Club activities."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Spencer's boyfriend who is injured in a construction accident and has a complicated relationship with his stepsister."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is dating Toby and is deeply involved in uncovering the truth about Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is secretly dating her teacher, Ezra Fitz."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is in a secret romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Holden",
+    "aliases": [
+      "Holden Strauss"
+    ],
+    "description": "A friend of Aria who helps her by acting as a cover for her secret dates."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A girl who recently broke up with Noel and is friends with Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [
+      "Noel Kahn"
+    ],
+    "description": "A student who recently broke up with Mona and is seen associating with Jenna."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Dr. Kingston"
+    ],
+    "description": "A doctor who has a romantic history with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is suspicious of her daughter's activities."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who questions her daughter about her secrets."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student who is dealing with family secrets and the manipulative actions of 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who is tech-savvy and investigates 'A's' phone files."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is friends with Hanna and is investigating 'A' alongside the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is dating Ezra and is friends with the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A high school student who is dating Maya and is friends with the other girls."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is dating Aria and is being recommended for a new position by Byron."
+  },
+  {
+    "type": "Character",
+    "name": "Holden",
+    "aliases": [
+      "Holden Strauss"
+    ],
+    "description": "A friend of Aria who spends time with her while she navigates her relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who has a history of financial trouble and theft."
+  },
+  {
+    "type": "Character",
+    "name": "Kate",
+    "aliases": [
+      "Kate Randall"
+    ],
+    "description": "Hanna's stepsister who recently transferred to Rosewood High."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is involved in Ezra's career advancement."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's girlfriend who has recently returned from rehab."
+  },
+  {
+    "type": "Character",
+    "name": "Pam",
+    "aliases": [
+      "Pam Fields"
+    ],
+    "description": "Emily's mother who is attempting to reconnect with her daughter and Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "An acquaintance of Garrett who is involved in the mysterious events surrounding the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A police officer who is associated with Jenna and intimidates Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali",
+      "Vivian Darkbloom"
+    ],
+    "description": "A deceased girl whose secrets and belongings are being investigated by the group."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student who is being targeted by 'A' and is accused of bullying Kate."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Hanna's mother who is protective of her daughter and works as a supervisor at Rosewood High."
+  },
+  {
+    "type": "Character",
+    "name": "Isabel",
+    "aliases": [],
+    "description": "Kate's mother who is hostile toward Hanna and Ashley."
+  },
+  {
+    "type": "Character",
+    "name": "Kate",
+    "aliases": [],
+    "description": "Hanna's step-sister who manipulates situations to frame Hanna."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A student at Rosewood High who discovers secrets about her family's history."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A student at Rosewood High who is investigating the mystery surrounding Alison and Vivian."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A student at Rosewood High who is struggling with her status on the swim team."
+  },
+  {
+    "type": "Character",
+    "name": "Holden",
+    "aliases": [],
+    "description": "A student who goes on 'dates' with Aria and hides secrets about his activities."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [],
+    "description": "A man who returns to Rosewood and shares a complicated family history with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "A teacher at Rosewood High and Aria's mother."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [],
+    "description": "Spencer's mother who struggles with the secrets regarding Peter and Jason."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "Hanna's boyfriend who helps her with technical issues and investigations."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "A student who helps Emily by blackmailing the Vice Principal."
+  },
+  {
+    "type": "Character",
+    "name": "Noel",
+    "aliases": [],
+    "description": "A student who is hostile toward Aria and Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [],
+    "description": "A student who is involved in the school's secrets and has a contentious relationship with others."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [],
+    "description": "Spencer's father who is revealed to be Jason's father as well."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Maya is a friend of Emily who is struggling with her parents' decision to send her back to rehab."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "Emily is a member of the swim team and a friend of the other girls who is deeply concerned about Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [],
+    "description": "Caleb is a tech-savvy individual who is dating Hanna and is currently being investigated by the police."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "Hanna is a friend of the group who is dating Caleb and actively works to protect him from the police."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "Aria is a friend of the group who is dating Ezra and helping Holden keep his martial arts activities secret."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "Spencer is a friend of the group who is investigating her family's connection to Alison's secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [],
+    "description": "Garrett is a police officer involved in the investigation of Alison's murder and Caleb's hacking."
+  },
+  {
+    "type": "Character",
+    "name": "Holden",
+    "aliases": [],
+    "description": "Holden is a friend of Aria who practices martial arts despite having a heart condition."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Ella is Aria's mother who tries to support her daughter's social life."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Byron is Aria's father who is skeptical of her activities and her relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [],
+    "description": "Jason is Alison's brother who is investigating his family's past and his connection to Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali",
+      "Vivian"
+    ],
+    "description": "Alison is the deceased girl whose murder investigation drives the actions of the other characters."
+  },
+  {
+    "type": "Character",
+    "name": "Jonah",
+    "aliases": [],
+    "description": "Jonah is a man who worked at Allegheny Cellular and claims to have information about Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [],
+    "description": "Ezra is Aria's boyfriend and a former teacher."
+  },
+  {
+    "type": "Character",
+    "name": "Darren",
+    "aliases": [
+      "Wilden"
+    ],
+    "description": "Darren is a detective leading the investigation into Alison's murder."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Ashley is Hanna's mother who is concerned about the police investigation involving her daughter."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [],
+    "description": "Peter is Spencer's father who admits to having an affair with Jessica DiLaurentis."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Em"
+    ],
+    "description": "A high school student and member of the swim team who is navigating personal relationships and the mystery of A."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spence"
+    ],
+    "description": "A high school student who is deeply involved in investigating the secrets surrounding her family and the mysterious A."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student who is secretly dating her teacher, Ezra, while dealing with her parents' scrutiny."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A high school student whose mother is being blackmailed by A, leading her to protect her family's secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "Hanna's friend who is being targeted by A and is struggling with the pressure of anonymous threats."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Hanna's mother who is being blackmailed by A regarding her past actions and relationship with Officer Wilden."
+  },
+  {
+    "type": "Character",
+    "name": "Wilden",
+    "aliases": [
+      "Officer Wilden"
+    ],
+    "description": "A police officer who has a complicated and compromising history with Ashley Marin."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is hiding secrets about her involvement with Ian and her family's past."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's love interest who has gone missing, prompting police investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "A member of the swim team who is developing feelings for Emily and has recently come out to her parents."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is in a secret, complicated relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is attempting to understand her daughter's relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is actively trying to end the relationship between Aria and Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Wren Kingston"
+    ],
+    "description": "A doctor who has a flirtatious and complex relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A mysterious figure who is seen watching the girls and interacting with Melissa."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [],
+    "description": "A high school student concerned about her missing girlfriend, Maya."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [],
+    "description": "A high school student dealing with family issues and the mystery of 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "Emily's girlfriend who has gone missing."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [],
+    "description": "A high school student investigating her family's secrets and the identity of 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [],
+    "description": "Spencer's older sister who is struggling with the death of her husband, Ian."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [],
+    "description": "A high school student who is dating Ezra and trying to protect her friends."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [],
+    "description": "Aria's mother who is navigating her family's complex dynamics."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [],
+    "description": "Aria's father who is attempting to reconnect with his daughter."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [],
+    "description": "Hanna's mother who is concerned about her daughter's safety and involvement with the police."
+  },
+  {
+    "type": "Character",
+    "name": "Tom",
+    "aliases": [],
+    "description": "Hanna's father who is absent from the father-daughter dance."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [],
+    "description": "Hanna's friend who is involved in the group's secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Mike",
+    "aliases": [],
+    "description": "Aria's brother who observes the family's tensions."
+  },
+  {
+    "type": "Character",
+    "name": "Wayne",
+    "aliases": [],
+    "description": "Emily's father who is supportive of his daughter before his deployment."
+  },
+  {
+    "type": "Character",
+    "name": "Peter",
+    "aliases": [],
+    "description": "Spencer and Melissa's father who is hiding secrets regarding Alison's disappearance."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "Aria is a high school student and friend to the other girls who is actively investigating the mystery surrounding Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "Spencer is a brilliant student who is deeply involved in uncovering the truth about Alison and her family's secrets."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "Hanna is a high school student who is concerned about the safety of her friends and is actively involved in the investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "Emily is a high school student who is dealing with personal issues while trying to solve the mystery of Alison's disappearance."
+  },
+  {
+    "type": "Character",
+    "name": "Duncan Albert",
+    "aliases": [
+      "Duncan"
+    ],
+    "description": "Duncan is a pilot who knew Alison and flew her to Philadelphia the weekend she disappeared."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali",
+      "Vivian"
+    ],
+    "description": "Alison is the deceased friend of the main characters whose mysterious death drives the plot."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Jenna is a girl who has a complicated history with the main characters and is Toby's sister."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Toby is Jenna's brother who has a strained relationship with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Ashley Marin"
+    ],
+    "description": "Ashley is Hanna's mother who is strict about Hanna's behavior and phone usage."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "Mona is a student who provides Hanna with a secret phone and offers advice on her social life."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Caleb is a boy Hanna is concerned about protecting from the entity known as A."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Maya is Emily's friend who has gone missing and is communicating with her via email."
+  },
+  {
+    "type": "Character",
+    "name": "Wren",
+    "aliases": [
+      "Wren Kingston"
+    ],
+    "description": "Wren is a doctor who treats both Toby and Spencer and has a past romantic connection with Spencer."
+  },
+  {
+    "type": "Character",
+    "name": "Jason",
+    "aliases": [
+      "Jason DiLaurentis"
+    ],
+    "description": "Jason is Alison's brother who is involved in the investigation of her belongings."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Ella is Aria's mother who is concerned about Aria's relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "Ezra is a teacher who is in a secret relationship with Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Byron is Aria's father who disapproves of her relationship with Ezra."
+  },
+  {
+    "type": "Character",
+    "name": "Veronica",
+    "aliases": [
+      "Veronica Hastings"
+    ],
+    "description": "Veronica is Spencer's mother who is trying to keep her family secrets hidden."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A high school student who is deeply involved in investigating the mystery surrounding Alison's death and her sister Melissa's potential involvement."
+  },
+  {
+    "type": "Character",
+    "name": "Alison",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose mysterious death continues to haunt her friends and family."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's older sister who is suspected by Spencer and others of having a motive to harm Alison."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A friend of Spencer and Hanna who is actively investigating the circumstances of Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [],
+    "description": "A girl who has a strained relationship with Emily and is currently upset with her."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A friend of Spencer and Emily who is determined to uncover the identity of 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A friend of Hanna who is involved in the group's plans and has a complicated relationship with Caleb."
+  },
+  {
+    "type": "Character",
+    "name": "Ashley",
+    "aliases": [
+      "Mrs. Marin"
+    ],
+    "description": "Hanna's mother who is concerned about her daughter's secret phone and behavior."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "A high school student dating her teacher, Ezra, and dealing with her parents' marital issues."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "A teacher who is in a romantic relationship with his student, Aria."
+  },
+  {
+    "type": "Character",
+    "name": "Byron",
+    "aliases": [
+      "Byron Montgomery"
+    ],
+    "description": "Aria's father who is attempting to manage his daughter's life and career."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Jenna's step-brother who is protective of her and concerned about her recovery."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "Toby's step-sister who has undergone eye surgery and is hiding the truth about her vision."
+  },
+  {
+    "type": "Character",
+    "name": "Garrett",
+    "aliases": [
+      "Garrett Reynolds"
+    ],
+    "description": "A man involved with Melissa and suspected of being connected to Alison's death."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who assists the girls in their plans to trap 'A'."
+  },
+  {
+    "type": "Character",
+    "name": "Ella",
+    "aliases": [
+      "Ella Montgomery"
+    ],
+    "description": "Aria's mother who is concerned about Aria's safety and the state of their family."
+  },
+  {
+    "type": "Character",
+    "name": "Seth",
+    "aliases": [],
+    "description": "A young boy at the doll store who claims to have a gift for seeing the future."
+  }
+,
+  {
+    "type": "Character",
+    "name": "Garrett Reynolds",
+    "aliases": [
+      "Garrett"
+    ],
+    "description": "A police officer who is suspected of murdering Alison DiLaurentis."
+  },
+  {
+    "type": "Character",
+    "name": "Alison DiLaurentis",
+    "aliases": [
+      "Ali"
+    ],
+    "description": "A deceased girl whose murder is the central mystery of the group's investigation."
+  },
+  {
+    "type": "Character",
+    "name": "Melissa",
+    "aliases": [
+      "Melissa Hastings"
+    ],
+    "description": "Spencer's sister who is viewed by the girls as smart but untrustworthy."
+  },
+  {
+    "type": "Character",
+    "name": "Aria",
+    "aliases": [
+      "Aria Montgomery"
+    ],
+    "description": "One of the girls investigating the mystery of Alison's death and the identity of A."
+  },
+  {
+    "type": "Character",
+    "name": "Spencer",
+    "aliases": [
+      "Spencer Hastings"
+    ],
+    "description": "A highly intelligent member of the group who is determined to uncover the identity of A."
+  },
+  {
+    "type": "Character",
+    "name": "Mona",
+    "aliases": [
+      "Mona Vanderwaal"
+    ],
+    "description": "A girl who acts as a friend to Hanna but is revealed to be the antagonist known as A."
+  },
+  {
+    "type": "Character",
+    "name": "Hanna",
+    "aliases": [
+      "Hanna Marin"
+    ],
+    "description": "A member of the group who is close friends with Mona and struggles to accept her betrayal."
+  },
+  {
+    "type": "Character",
+    "name": "Caleb",
+    "aliases": [
+      "Caleb Rivers"
+    ],
+    "description": "Hanna's boyfriend who attends the masquerade ball with her."
+  },
+  {
+    "type": "Character",
+    "name": "Ezra",
+    "aliases": [
+      "Ezra Fitz"
+    ],
+    "description": "Aria's romantic partner who meets her at the masquerade ball."
+  },
+  {
+    "type": "Character",
+    "name": "Emily",
+    "aliases": [
+      "Emily Fields"
+    ],
+    "description": "A member of the group who is deeply affected by the events surrounding Maya and the mystery."
+  },
+  {
+    "type": "Character",
+    "name": "Maya",
+    "aliases": [
+      "Maya St. Germain"
+    ],
+    "description": "Emily's romantic interest who is found dead at the end of the episode."
+  },
+  {
+    "type": "Character",
+    "name": "Toby",
+    "aliases": [
+      "Toby Cavanaugh"
+    ],
+    "description": "Spencer's romantic partner who works to help Dr. Sullivan return."
+  },
+  {
+    "type": "Character",
+    "name": "Jenna",
+    "aliases": [
+      "Jenna Marshall"
+    ],
+    "description": "A mysterious figure who is involved in secret meetings and is watched by the girls."
+  },
+  {
+    "type": "Character",
+    "name": "Dr. Sullivan",
+    "aliases": [
+      "Dr. Anne Sullivan"
+    ],
+    "description": "A doctor who was blackmailed by A and returns to help the girls and treat Mona."
+  },
+  {
+    "type": "Character",
+    "name": "Paige",
+    "aliases": [
+      "Paige McCullers"
+    ],
+    "description": "A girl who reconciles with Emily at the masquerade ball."
+  }
+]
